@@ -161,7 +161,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-001.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p01-opening-canal",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p01-opening-canal.webp",
+          "sourcePage": 1,
+          "variant": "ai-story-scene",
+          "width": 360,
+          "height": 194,
+          "kind": "ai-story-illustration",
+          "promptNote": "Opening memory scene: Thai childhood by a canal; generated as a new scene, not from a PDF crop",
+          "contextPage": 1,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 2,
@@ -223,7 +236,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-002.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p02-childhood-portrait",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p02-childhood-portrait.webp",
+          "sourcePage": 2,
+          "variant": "ai-story-scene",
+          "width": 360,
+          "height": 194,
+          "kind": "ai-story-illustration",
+          "promptNote": "Childhood portrait for the memoir title; generated as a new scene, not from a PDF crop",
+          "contextPage": 2,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 3,
@@ -405,7 +431,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-003.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p03-childhood-river-memory",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p03-childhood-river-memory.webp",
+          "sourcePage": 3,
+          "variant": "ai-story-scene",
+          "width": 360,
+          "height": 190,
+          "kind": "ai-story-illustration",
+          "promptNote": "Childhood-memory scene supporting the narrator's opening reflection; generated as a new scene, not from a PDF crop",
+          "contextPage": 3,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 4,
@@ -632,7 +671,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-004.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p04-learning-dream",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p04-learning-dream.webp",
+          "sourcePage": 4,
+          "variant": "ai-story-scene",
+          "width": 360,
+          "height": 191,
+          "kind": "ai-story-illustration",
+          "promptNote": "Learning and aspiration scene supporting the reflection on obstacles and opportunity; generated as a new scene, not from a PDF crop",
+          "contextPage": 4,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 5,
@@ -1041,7 +1093,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-007.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p07-father-son-secret",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p07-father-son-secret.webp",
+          "sourcePage": 7,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 225,
+          "kind": "ai-story-illustration",
+          "promptNote": "Private father-and-son conversation kept secret for decades; generated as a new scene, not from a PDF crop",
+          "contextPage": 7,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 8,
@@ -1298,7 +1363,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-009.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p09-exam-result-classroom",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p09-exam-result-classroom.webp",
+          "sourcePage": 9,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 225,
+          "kind": "ai-story-illustration",
+          "promptNote": "School/exam scene for the 78-percent result and confidence in passing; generated as a new scene, not from a PDF crop",
+          "contextPage": 9,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 10,
@@ -1570,7 +1648,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-010.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p10-siblings-family",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p10-siblings-family.webp",
+          "sourcePage": 10,
+          "variant": "ai-story-scene",
+          "width": 320,
+          "height": 182,
+          "kind": "ai-story-illustration",
+          "promptNote": "Sibling/family scene for the lively children and father's concern about their future; generated as a new scene, not from a PDF crop",
+          "contextPage": 10,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 11,
@@ -1810,7 +1901,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-011.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p11-dream-school",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p11-dream-school.webp",
+          "sourcePage": 11,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 225,
+          "kind": "ai-story-illustration",
+          "promptNote": "Dream-school and determination scene for choosing a school against the father's preference; generated as a new scene, not from a PDF crop",
+          "contextPage": 11,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 12,
@@ -2058,7 +2162,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-013.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p13-new-school-exam",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p13-new-school-exam.webp",
+          "sourcePage": 13,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 158,
+          "kind": "ai-story-illustration",
+          "promptNote": "Entrance-exam/new-school scene after the missed application; generated as a new scene, not from a PDF crop",
+          "contextPage": 13,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 14,
@@ -2334,7 +2451,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-014.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p14-school-floor-classroom",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p14-school-floor-classroom.webp",
+          "sourcePage": 14,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 233,
+          "kind": "ai-story-illustration",
+          "promptNote": "Classroom atmosphere scene for the noisy lower floors and quieter upper classroom; generated as a new scene, not from a PDF crop",
+          "contextPage": 14,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 15,
@@ -2428,7 +2558,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-015.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p15-childhood-riverside",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p15-childhood-riverside.webp",
+          "sourcePage": 15,
+          "variant": "ai-story-scene",
+          "width": 420,
+          "height": 158,
+          "kind": "ai-reference-illustration",
+          "promptNote": "Quiet farewell to carefree childhood; period-grounded Thai memoir scene",
+          "contextPage": 15,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 16,
@@ -2624,20 +2767,7 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-016.png",
-      "illustrations": [
-        {
-          "id": "ai-p15-childhood-riverside",
-          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p15-childhood-riverside.webp",
-          "sourcePage": 16,
-          "variant": "ai-story-scene",
-          "width": 420,
-          "height": 158,
-          "kind": "ai-reference-illustration",
-          "promptNote": "Quiet farewell to carefree childhood; period-grounded Thai memoir scene",
-          "contextPage": 16,
-          "slot": 0
-        }
-      ]
+      "illustrations": []
     },
     {
       "pageNumber": 17,
@@ -12115,7 +12245,7 @@
   "illustrationBuild": {
     "strategy": "original PDF images plus genuinely generated story scenes only; no crops or reframed duplicates",
     "derivedAssetCount": 0,
-    "aiSceneCount": 5,
+    "aiSceneCount": 15,
     "rule": "Do not create story illustrations by cropping an existing source image."
   }
 }
