@@ -2767,7 +2767,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-016.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p16-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p16-story.webp",
+          "sourcePage": 16,
+          "variant": "ai-story-scene",
+          "width": 294,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Transition from carefree childhood into hardship and school responsibility; a small Thai boy walks into a more serious life.",
+          "contextPage": 16,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 17,
@@ -3244,7 +3257,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-019.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p19-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p19-story.webp",
+          "sourcePage": 19,
+          "variant": "ai-story-scene",
+          "width": 292,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Late-night homework after helping the family work; exhaustion and responsibility in a modest Thai home.",
+          "contextPage": 19,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 20,
@@ -3659,7 +3685,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-021.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p21-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p21-story.webp",
+          "sourcePage": 21,
+          "variant": "ai-story-scene",
+          "width": 280,
+          "height": 332,
+          "kind": "ai-story-illustration",
+          "promptNote": "Family survival and meals under financial pressure; the household burden is shared.",
+          "contextPage": 21,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 22,
@@ -3989,7 +4028,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-023.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p23-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p23-story.webp",
+          "sourcePage": 23,
+          "variant": "ai-story-scene",
+          "width": 268,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "School friendship and concern during lunch break; classmates check on a boy who often skips lunch.",
+          "contextPage": 23,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 24,
@@ -4301,7 +4353,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-025.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p25-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p25-story.webp",
+          "sourcePage": 25,
+          "variant": "ai-story-scene",
+          "width": 244,
+          "height": 332,
+          "kind": "ai-story-illustration",
+          "promptNote": "Long exhausting commute through Bangkok at night; persistence through heat, traffic, and saving every coin.",
+          "contextPage": 25,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 26,
@@ -4585,7 +4650,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-027.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p27-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p27-story.webp",
+          "sourcePage": 27,
+          "variant": "ai-story-scene",
+          "width": 296,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Father steers his son toward apprenticeship; a young Thai boy enters an adult-directed working future.",
+          "contextPage": 27,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 28,
@@ -4893,7 +4971,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-029.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p29-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p29-story.webp",
+          "sourcePage": 29,
+          "variant": "ai-story-scene",
+          "width": 244,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Lonely realization that schooling may be ending; a boy confronts uncertainty and isolation.",
+          "contextPage": 29,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 30,
@@ -5149,7 +5240,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-030.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p30-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p30-story.webp",
+          "sourcePage": 30,
+          "variant": "ai-story-scene",
+          "width": 282,
+          "height": 288,
+          "kind": "ai-story-illustration",
+          "promptNote": "A large family holds together in a modest home during financial crisis.",
+          "contextPage": 30,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 31,
@@ -5404,7 +5508,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-031.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p31-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p31-story.webp",
+          "sourcePage": 31,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 288,
+          "kind": "ai-story-illustration",
+          "promptNote": "Family crisis visualized through a small boat and the need to keep moving despite lost school dreams.",
+          "contextPage": 31,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 32,
@@ -5812,7 +5929,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-033.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p33-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p33-story.webp",
+          "sourcePage": 33,
+          "variant": "ai-story-scene",
+          "width": 268,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Severe poverty and early labor; a young apprentice works in a crowded workshop with almost nothing.",
+          "contextPage": 33,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 34,
@@ -6232,7 +6362,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-035.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p35-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p35-story.webp",
+          "sourcePage": 35,
+          "variant": "ai-story-scene",
+          "width": 284,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Learning drafting and design for block-printing work through careful hand skills at a desk.",
+          "contextPage": 35,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 36,
@@ -6447,7 +6590,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-036.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p36-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p36-story.webp",
+          "sourcePage": 36,
+          "variant": "ai-story-scene",
+          "width": 276,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Financial conflict and debt pressure surrounding the family while the young worker witnesses it.",
+          "contextPage": 36,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 37,
@@ -6825,7 +6981,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-038.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p38-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p38-story.webp",
+          "sourcePage": 38,
+          "variant": "ai-story-scene",
+          "width": 272,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Heavy anxiety around family debt and responsibility; a reflective figure carries the worry.",
+          "contextPage": 38,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 39,
@@ -7094,7 +7263,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-039.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p39-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p39-story.webp",
+          "sourcePage": 39,
+          "variant": "ai-story-scene",
+          "width": 258,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Comparison with university-bound peers and resolve to become equally skilled through work.",
+          "contextPage": 39,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 40,
@@ -7467,7 +7649,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-041.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p41-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p41-story.webp",
+          "sourcePage": 41,
+          "variant": "ai-story-scene",
+          "width": 252,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Apprenticeship without a true teacher; learning by watching skilled workers and doing practical tasks.",
+          "contextPage": 41,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 42,
@@ -7978,7 +8173,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-044.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p44-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p44-story.webp",
+          "sourcePage": 44,
+          "variant": "ai-story-scene",
+          "width": 264,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Self-teaching through repeated drafting work, overtime, and persistence over years.",
+          "contextPage": 44,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 45,
@@ -8157,7 +8365,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-045.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p45-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p45-story.webp",
+          "sourcePage": 45,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Growing into a skilled professional through years of hard work and technical practice.",
+          "contextPage": 45,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 46,
@@ -8339,7 +8560,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-046.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p46-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p46-story.webp",
+          "sourcePage": 46,
+          "variant": "ai-story-scene",
+          "width": 280,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Looking beyond the workshop toward the wider world and questioning unfair limits and pay.",
+          "contextPage": 46,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 47,
@@ -8638,7 +8872,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-048.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p48-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p48-story.webp",
+          "sourcePage": 48,
+          "variant": "ai-story-scene",
+          "width": 260,
+          "height": 332,
+          "kind": "ai-story-illustration",
+          "promptNote": "The opportunity-train metaphor: readiness to leap into a new chapter and independent work.",
+          "contextPage": 48,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 49,
@@ -8879,7 +9126,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-049.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p49-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p49-story.webp",
+          "sourcePage": 49,
+          "variant": "ai-story-scene",
+          "width": 258,
+          "height": 332,
+          "kind": "ai-story-illustration",
+          "promptNote": "Planning to leave salaried work after freelance night work proves a new path is viable.",
+          "contextPage": 49,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 50,
@@ -9144,7 +9404,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-051.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p51-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p51-story.webp",
+          "sourcePage": 51,
+          "variant": "ai-story-scene",
+          "width": 252,
+          "height": 288,
+          "kind": "ai-story-illustration",
+          "promptNote": "Leaving five years of apprenticeship behind and walking toward a self-directed future.",
+          "contextPage": 51,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 52,
@@ -9448,7 +9721,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-053.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p53-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p53-story.webp",
+          "sourcePage": 53,
+          "variant": "ai-story-scene",
+          "width": 312,
+          "height": 288,
+          "kind": "ai-story-illustration",
+          "promptNote": "Looking back through family memories to understand parents, siblings, and their sacrifices.",
+          "contextPage": 53,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 54,
@@ -9787,7 +10073,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-055.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p55-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p55-story.webp",
+          "sourcePage": 55,
+          "variant": "ai-story-scene",
+          "width": 300,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Generational distance between father and son, with affection and lessons often left unspoken.",
+          "contextPage": 55,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 56,
@@ -10085,7 +10384,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-057.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p57-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p57-story.webp",
+          "sourcePage": 57,
+          "variant": "ai-story-scene",
+          "width": 252,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Discovering identity through design work and self-learning despite losing formal education.",
+          "contextPage": 57,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 58,
@@ -10310,7 +10622,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-058.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p58-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p58-story.webp",
+          "sourcePage": 58,
+          "variant": "ai-story-scene",
+          "width": 288,
+          "height": 288,
+          "kind": "ai-story-illustration",
+          "promptNote": "Urgency to change, explore the wider world, and keep learning throughout life.",
+          "contextPage": 58,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 59,
@@ -10545,7 +10870,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-059.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p59-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p59-story.webp",
+          "sourcePage": 59,
+          "variant": "ai-story-scene",
+          "width": 308,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Daily discipline and repeated practice: recording lessons and becoming better than yesterday.",
+          "contextPage": 59,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 60,
@@ -10815,7 +11153,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-060.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p60-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p60-story.webp",
+          "sourcePage": 60,
+          "variant": "ai-story-scene",
+          "width": 280,
+          "height": 332,
+          "kind": "ai-story-illustration",
+          "promptNote": "Obstacles, family pride, discipline, and dreams gradually shaping a stronger life.",
+          "contextPage": 60,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 61,
@@ -11035,7 +11386,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-061.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p61-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p61-story.webp",
+          "sourcePage": 61,
+          "variant": "ai-story-scene",
+          "width": 270,
+          "height": 332,
+          "kind": "ai-story-illustration",
+          "promptNote": "Passing hard-earned experience onward and reflecting on time, work, and choices.",
+          "contextPage": 61,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 62,
@@ -11343,7 +11707,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-063.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p63-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p63-story.webp",
+          "sourcePage": 63,
+          "variant": "ai-story-scene",
+          "width": 276,
+          "height": 344,
+          "kind": "ai-story-illustration",
+          "promptNote": "Life-university lessons built through sweat, sacrifice, patience, and long-term effort.",
+          "contextPage": 63,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 64,
@@ -11623,7 +12000,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-064.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p64-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p64-story.webp",
+          "sourcePage": 64,
+          "variant": "ai-story-scene",
+          "width": 252,
+          "height": 360,
+          "kind": "ai-story-illustration",
+          "promptNote": "Hard work, saving, discipline, and resisting short-term comfort for long-term growth.",
+          "contextPage": 64,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 65,
@@ -11875,7 +12265,20 @@
         }
       ],
       "render": "/suoi-tee-content/assets/pages/page-065.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p65-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p65-story.webp",
+          "sourcePage": 65,
+          "variant": "ai-story-scene",
+          "width": 268,
+          "height": 288,
+          "kind": "ai-story-illustration",
+          "promptNote": "Written life lessons: unseen work and accumulated experience slowly strengthen the mind.",
+          "contextPage": 65,
+          "slot": 0
+        }
+      ]
     },
     {
       "pageNumber": 66,
@@ -12234,7 +12637,20 @@
       },
       "proofreadEdits": [],
       "render": "/suoi-tee-content/assets/pages/page-069.png",
-      "illustrations": []
+      "illustrations": [
+        {
+          "id": "ai-p69-story",
+          "src": "/suoi-tee-content/assets/illustrations/ai/ai-p69-story.webp",
+          "sourcePage": 69,
+          "variant": "ai-story-scene",
+          "width": 288,
+          "height": 288,
+          "kind": "ai-story-illustration",
+          "promptNote": "Quiet closing image under a starry sky, leaving the memoir open-ended and reflective.",
+          "contextPage": 69,
+          "slot": 0
+        }
+      ]
     }
   ],
   "source": {
@@ -12245,7 +12661,7 @@
   "illustrationBuild": {
     "strategy": "original PDF images plus genuinely generated story scenes only; no crops or reframed duplicates",
     "derivedAssetCount": 0,
-    "aiSceneCount": 15,
+    "aiSceneCount": 47,
     "rule": "Do not create story illustrations by cropping an existing source image."
   }
 }
