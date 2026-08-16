@@ -1,0 +1,7688 @@
+{
+  "title": "โซ้ยตี๋ — เรื่องเล่าจากวัยเด็กของพ่อ",
+  "pageCount": 69,
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "index": 0,
+      "title": "เปิดสมุดความทรงจำ",
+      "startPage": 1,
+      "endPage": 2
+    },
+    {
+      "id": "chapter-2",
+      "index": 1,
+      "title": "คำนำ",
+      "startPage": 3,
+      "endPage": 5
+    },
+    {
+      "id": "chapter-3",
+      "index": 2,
+      "title": "เด็กน้อยไร้เดียงสา",
+      "startPage": 6,
+      "endPage": 14
+    },
+    {
+      "id": "chapter-4",
+      "index": 3,
+      "title": "วัยเด็กที่สนุกสนานได้หมดไปแล้ว",
+      "startPage": 15,
+      "endPage": 16
+    },
+    {
+      "id": "chapter-5",
+      "index": 4,
+      "title": "พลังสามัคคี",
+      "startPage": 17,
+      "endPage": 18
+    },
+    {
+      "id": "chapter-6",
+      "index": 5,
+      "title": "งานคือความอยู่รอด",
+      "startPage": 19,
+      "endPage": 27
+    },
+    {
+      "id": "chapter-7",
+      "index": 6,
+      "title": "วันเปิดเทอมเหมือนวันสิ้นโลก",
+      "startPage": 28,
+      "endPage": 33
+    },
+    {
+      "id": "chapter-8",
+      "index": 7,
+      "title": "บันไดขั้นแรกของพ่อ",
+      "startPage": 34,
+      "endPage": 35
+    },
+    {
+      "id": "chapter-9",
+      "index": 8,
+      "title": "มหาลัยชีวิตบทแรก",
+      "startPage": 36,
+      "endPage": 39
+    },
+    {
+      "id": "chapter-10",
+      "index": 9,
+      "title": "ครูที่ดีที่สุดคือตัวเราเอง",
+      "startPage": 40,
+      "endPage": 42
+    },
+    {
+      "id": "chapter-11",
+      "index": 10,
+      "title": "การฝึกงานในมหาลัยชีวิต",
+      "startPage": 43,
+      "endPage": 46
+    },
+    {
+      "id": "chapter-12",
+      "index": 11,
+      "title": "รถไฟสายแห่งโอกาส",
+      "startPage": 47,
+      "endPage": 50
+    },
+    {
+      "id": "chapter-13",
+      "index": 12,
+      "title": "ทิ้งอดีตห้าปีไว้ข้างหลัง",
+      "startPage": 51,
+      "endPage": 51
+    },
+    {
+      "id": "chapter-14",
+      "index": 13,
+      "title": "มองย้อนกลับไปที่ครอบครัว",
+      "startPage": 52,
+      "endPage": 55
+    },
+    {
+      "id": "chapter-15",
+      "index": 14,
+      "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+      "startPage": 56,
+      "endPage": 62
+    },
+    {
+      "id": "chapter-16",
+      "index": 15,
+      "title": "หลักสูตรมหาลัยชีวิต",
+      "startPage": 63,
+      "endPage": 69
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "chapter": {
+        "id": "chapter-1",
+        "index": 0,
+        "title": "เปิดสมุดความทรงจำ",
+        "startPage": 1,
+        "endPage": 2
+      },
+      "lines": [],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-001.png"
+    },
+    {
+      "pageNumber": 2,
+      "chapter": {
+        "id": "chapter-1",
+        "index": 0,
+        "title": "เปิดสมุดความทรงจำ",
+        "startPage": 1,
+        "endPage": 2
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-75097691a3ec27e9",
+          "src": "/suoi-tee-content/assets/images/image-75097691a3ec27e9.jpeg",
+          "width": 1440,
+          "height": 1920,
+          "bbox": [
+            26.6667,
+            19.5005,
+            573.3334,
+            748.3895
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-002.png"
+    },
+    {
+      "pageNumber": 3,
+      "chapter": {
+        "id": "chapter-2",
+        "index": 1,
+        "title": "คำนำ",
+        "startPage": 3,
+        "endPage": 5
+      },
+      "lines": [
+        {
+          "id": "p3-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "ผมก็เหมือนคนเกษียณทั่วๆไปที่มีคํานําความคิดที่จะเขียนเรื่องราวของตัวเอง",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b2",
+          "pdfLine": "2-5",
+          "pdfLines": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "piece": 2,
+          "text": "แต่เรื่องราวของผมจะต่างจากคนเกษียณคนอื่นๆที่จะเขียนเริ่มจากความสําเร็จในการศึกษา",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b3",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "จนถึงความสําเร็จในหน้าที่การงานแต่ของผมจะเริ่มตั้ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b4",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 4,
+          "text": "แต่การไม่มีโอกาสได้เรียนไล่มาถึงการทํางานที่เริ่มจากความไร้เดียงสาของเด็กน้อยท",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b5",
+          "pdfLine": "8",
+          "pdfLines": [
+            8
+          ],
+          "piece": 5,
+          "text": "ี่เริ่มจากศูนย์(0)",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b6",
+          "pdfLine": "10-11",
+          "pdfLines": [
+            10,
+            11
+          ],
+          "piece": 6,
+          "text": "ขณะที่เขียนผมอายุ73ปีเรื่องที่จะเล่าต่อไปนี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b7",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "คิดเสียว่าเป็นเรื่องราวชีวิตของเด็กน้อยผู้ไร้เดียงสาคนหนึ่ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b8",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 8,
+          "text": "ซึ่งเรื่องราวหลายๆเรื่องทุกคนในเรื่องก็รู้อยู่แล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b9",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 9,
+          "text": "และก็มีหลายๆเรื่องที่ทุกคนยังไม่รู้ ก็หวังว่าเมื่ออ่าน",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b10",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 10,
+          "text": "แล้วคงจะเข้าใจในเรื่องนั้นและเข้าใจผู้เขียนในวัยเด็ก",
+          "mode": "narration"
+        },
+        {
+          "id": "p3-b11",
+          "pdfLine": "16",
+          "pdfLines": [
+            16
+          ],
+          "piece": 11,
+          "text": "ซึ่งยังไร้เดียงสากับชีวิตได้มากขึ้น",
+          "mode": "emphasis"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-003.png"
+    },
+    {
+      "pageNumber": 4,
+      "chapter": {
+        "id": "chapter-2",
+        "index": 1,
+        "title": "คำนำ",
+        "startPage": 3,
+        "endPage": 5
+      },
+      "lines": [
+        {
+          "id": "p4-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "จริงๆแล้วมีความฝันที่อยากทําหลายๆอย่างแต่การเขียนเรื่องราวชีวิตของตนเองน่าจะเป",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "็นสิ่งที่ง่ายที่สุดเพราะเรื่องราวทั้งหมดมันถูกบันทึกอยู่ในหัวสมองอยู่",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "แล้วเพียงเอามาพูดใส่มือถือเท่านั้น การเขียนครั้งนี้เป็นการเขียนครั้งแรกในชีวิต",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b4",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 4,
+          "text": "ซึ่งก็ไม่ใช่คนเขียนเก่งอะไรอาจจะวกไปวนมาแต่ทุกอย่างก็เขียนตามความเป็นจริงที่เก",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b5",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 5,
+          "text": "ิดขึ้นตามความนึกคิดความรู้สึกณขณะนั้นแต่ก็พยายามเขียนเรื่องให้สนุกตื่นเต้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b6",
+          "pdfLine": "10-11",
+          "pdfLines": [
+            10,
+            11
+          ],
+          "piece": 6,
+          "text": "เพื่อที่ว่าคนอ่านจะได้ไม่เบื่อ",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b7",
+          "pdfLine": "13",
+          "pdfLines": [
+            13
+          ],
+          "piece": 7,
+          "text": "ก็ขอขอบคุณ...",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b8",
+          "pdfLine": "13",
+          "pdfLines": [
+            13
+          ],
+          "piece": 8,
+          "text": "ทุกปัญหา...",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b9",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 9,
+          "text": "ทุกอุปสรรคที่เกิดขึ้นเพราะการฟันฝ่าในวันนั้นถึงทําให้มีวันนี้ขึ้นมาได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b10",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "ถ้าจะมีการเขียนในตอนต่อไปจากช่วงวัยเด็กน้อยผู้ไร้เดียงสาก็จะเป็นตอนของช่วงการ",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b11",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 11,
+          "text": "ทํางานต่อจากนั้นอีก50ปีซึ่งจะสนุกไม่แพ้กัน...",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b12",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 12,
+          "text": "คิดแล้วก็เหนื่อย...",
+          "mode": "narration"
+        },
+        {
+          "id": "p4-b13",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 13,
+          "text": "ขอจบเท่านี้แล้วกัน",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-004.png"
+    },
+    {
+      "pageNumber": 5,
+      "chapter": {
+        "id": "chapter-2",
+        "index": 1,
+        "title": "คำนำ",
+        "startPage": 3,
+        "endPage": 5
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-609da8c6239bc756",
+          "src": "/suoi-tee-content/assets/images/image-609da8c6239bc756.png",
+          "width": 1087,
+          "height": 1446,
+          "bbox": [
+            26.6667,
+            54.0006,
+            573.3334,
+            781.2126
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-005.png"
+    },
+    {
+      "pageNumber": 6,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p6-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "\"เด็กน้อยไร้เดียงสา\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p6-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "(ทําไมถึงไม่เรียนต่อ)",
+          "mode": "narration"
+        },
+        {
+          "id": "p6-b3",
+          "pdfLine": "4",
+          "pdfLines": [
+            4
+          ],
+          "piece": 3,
+          "text": "ย้อนกลับไป...",
+          "mode": "narration"
+        },
+        {
+          "id": "p6-b4",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "เช้าวันอาทิตย์ที่สดใสช่วงปลายปี 2511 ณ บ้านเลขที่ 273 ตรอกพุฒ วังใหม่",
+          "mode": "narration"
+        },
+        {
+          "id": "p6-b5",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "ปทุมวัน พระนคร ตอนนั้นผมอายุ 14 ปีเรียนอยู่ชั้น ป.7 ก รร.ชาญวิทย์พิทยาลัย",
+          "mode": "narration"
+        },
+        {
+          "id": "p6-b6",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "กําลังรอสอบปลายภาค ในขณะนั้นพ่อ(อาเจ็ก) เรียกผม(อาโซ้ยตี๋) มาพบว่ามีเรื่องจะคุยด้วย",
+          "mode": "narration"
+        },
+        {
+          "id": "p6-b7",
+          "pdfLine": "11-13",
+          "pdfLines": [
+            11,
+            12,
+            13
+          ],
+          "piece": 7,
+          "text": "\"ถ้าผลสอบปีนี้ลื้อได้ไม่ถึง70% อั๊วจะไม่ให้เรียนต่อลื้อต้องไปฝึกทํางานกับเพื่อนอั๊วที่ชื่ออาปอ\"",
+          "mode": "speech"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-006.png"
+    },
+    {
+      "pageNumber": 7,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p7-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "ตอนนั้นเราอยู่กันแค่สองคนเรื่องที่คุยนี้ จึงเป็นความลับระหว่างเราสองคน",
+          "mode": "narration"
+        },
+        {
+          "id": "p7-b2",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 2,
+          "text": "ผมเก็บมันไว้ในใจตลอดเกือบ 60 ปี โดยไม่เคยปริปากบอกใคร",
+          "mode": "narration"
+        },
+        {
+          "id": "p7-b3",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 3,
+          "text": "และก็ไม่รู้ว่าจะเล่าให้ใครฟังผมยอมรับว่าตอนที่ได้ยิน ผมตกใจมาก",
+          "mode": "narration"
+        },
+        {
+          "id": "p7-b4",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 4,
+          "text": "เพราะก่อนหน้านี้ พ่อก็เคยส่งพี่ชายสองคนไปฝากทํางาน เป็นคนละที่กับที่จะพา",
+          "mode": "narration"
+        },
+        {
+          "id": "p7-b5",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 5,
+          "text": "ผมไปฝาก แต่ทํางานอยู่ไม่กี่วัน พี่ชายทั้งสองคนก็ไม่ยอมไปอีก",
+          "mode": "narration"
+        },
+        {
+          "id": "p7-b6",
+          "pdfLine": "11-13",
+          "pdfLines": [
+            11,
+            12,
+            13
+          ],
+          "piece": 6,
+          "text": "ตอนนั้นยังคิดว่าผมคงเป็นคนต่อไป และก็เป็นอย่างนั้นจริงๆ แต่ส่วนลึกในใจ",
+          "mode": "narration"
+        },
+        {
+          "id": "p7-b7",
+          "pdfLine": "13",
+          "pdfLines": [
+            13
+          ],
+          "piece": 7,
+          "text": "ผมขณะนั้นก็คิดว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p7-b8",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 8,
+          "text": "“พ่อนี่ไม่เคยสนใจในผลการเรียนของลูกเลย”",
+          "mode": "speech"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-007.png"
+    },
+    {
+      "pageNumber": 8,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-092d60e9de758e3d",
+          "src": "/suoi-tee-content/assets/images/image-092d60e9de758e3d.png",
+          "width": 940,
+          "height": 1488,
+          "bbox": [
+            26.6667,
+            16.6672,
+            535.2538,
+            821.7505
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-008.png"
+    },
+    {
+      "pageNumber": 9,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p9-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "เพราะผมไม่ใช่เด็กเรียนอ่อนถึงแม้ว่าผมจะวิ่งเล่นทั้งวันตามปะสาเด็กทั่วๆไปไม่ค่อ",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b2",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 2,
+          "text": "ยอ่านหนังสือแต่คะแนนสอบที่ผ่านมาก็เกิน70%ทุกครั้งบางครั้งแกล้งขยันหน่อยยังเกิน",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b3",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 3,
+          "text": "80%ด้วยซํ้า ยังไงก็ผ่านสบายอยู่แล้วฮ่าๆๆ....",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b4",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 4,
+          "text": "หลังจากสอบไล่เสร็จ ก็เป็นช่วงปิดเทอมใหญ่ วันที่พ่อรอคอยก็มาถึง",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b5",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 5,
+          "text": "เขาเรียกผมถามว่าสอบไล่ได้กี่% ผมรีบตอบทันทีว่าได้ 78% พ่อได้ฟังก็ยิ้ม",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b6",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 6,
+          "text": "และหัวเราะอย่างภาคภูมิใจ แต่พ่อไม่ได้พูดอะไร ในใจพ่อตอนนั้น ถ้าให้เดาคงคิดว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b7",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 7,
+          "text": "“ลูกชายคนนี้เรียนเก่งใช้ได้เหมือน 70%กันนะ”",
+          "mode": "speech"
+        },
+        {
+          "id": "p9-b8",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 8,
+          "text": "แต่เคยพูดไปแล้วว่า ถ้าได้ไม่ถึงจะไม่ให้เรียนต่อ และอีกอย่าง อาโซ้ยตี๋",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b9",
+          "pdfLine": "16-18",
+          "pdfLines": [
+            16,
+            17,
+            18
+          ],
+          "piece": 9,
+          "text": "มันดูเหมือนเด็กไร้เดียงสาที่เอาแต่เล่นสนุกไปวันๆตอนนั้นผมตัวเล็ก",
+          "mode": "narration"
+        },
+        {
+          "id": "p9-b10",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 10,
+          "text": "และผอมมาก อายุ 14 ปี สูง",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-009.png"
+    },
+    {
+      "pageNumber": 10,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p10-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "แค่ 150 กว่าเซ็นต์...",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b2",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 2,
+          "text": "ลืมบอกไปอีกอย่างคือพี่น้องทุกคนตอนเด็ก แต่ละคนจะเป็นเด็ก Alert",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b3",
+          "pdfLine": "2-4",
+          "pdfLines": [
+            2,
+            3,
+            4
+          ],
+          "piece": 3,
+          "text": "มากซุกซน อยู่นิ่งกันไม่ค่อยได้ คิดปุ๊บ ทําปั๊บชอบชีวิตอิสระ",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b4",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 4,
+          "text": "ไม่ชอบอยู่ในกฎกติกา ซุกซนมากเหมือนจับปูใส่กระด้ง ตามประสาเด็กยุคนั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b5",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "ซึ่งเป็นเรื่องที่ยากมากที่พ่อจะมองเห็นถืงอนาคตของลูกๆ แต่ละคนใน",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b6",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 6,
+          "text": "ตอนนั้นว่าอนาคตตอนเป็นผู้ใหญ่ จะประสบความสําเร็จในชีวิต",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b7",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "และน่าจะเป็นเรื่องยากมากที่จะสร้างตัวจากศูนย์ขึ้นมา พ่อคงเห็น",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b8",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "แต่ภาพความสําเร็จจากหลายๆคน ที่ เสี่อผืนหมอนใบ แล้วทําการค้ารํ่ารวยในไทย",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b9",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 9,
+          "text": "แต่ด้านตรงข้ามอีกหลายๆคน ซึ่งน่าจะเป็นส่วนมากที่ไม่ประสบความสําเร็จ",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b10",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 10,
+          "text": "บางคนถึงขั้นเป็นขอทานก็มี พ่อจึงพยายามให้ลูกชายคนที่ 2-3 และ 4",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b11",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 11,
+          "text": "เรียนรู้ชีวิตโดยการไปทํางานข้างนอก คําพูดที่ได้ยินผู้ใหญ่ในยุคนั้นพูดกันก็คือ",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b12",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 12,
+          "text": "เรียนหนังสือไป จบมาก็เป็นแค่ลูกจ้าง ไม่กล้าคิดกล้าทําอะไร เป็นเ",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b13",
+          "pdfLine": "18-19",
+          "pdfLines": [
+            18,
+            19
+          ],
+          "piece": 13,
+          "text": "ถ้าแก่ก็ไม่ได้ แต่ในความเป็นจริงถึงจะเป็นพี่น้องกัน ในวัยเด็ก",
+          "mode": "narration"
+        },
+        {
+          "id": "p10-b14",
+          "pdfLine": "19-20",
+          "pdfLines": [
+            19,
+            20
+          ],
+          "piece": 14,
+          "text": "บุคลิกลักษณะนิสัย การแสดงออกอาจจะดูคล้ายๆกัน",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-010.png"
+    },
+    {
+      "pageNumber": 11,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p11-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "ยีนส์ DNA กรรมพันธุ์ แต่ในอุปนิสัยนั้น เมื่อตอนโตเป็นผู้ใหญ่",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b2",
+          "pdfLine": "2-3",
+          "pdfLines": [
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "ก็ไม่สามารถที่จะเหมือนกันได้ เช่น การมองโลกในแง่บวก หรือลบ",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b3",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "การมีความมุ่งมั่นในการสู้ปัญหา การมีวิริยะอุตสาหะที่ต้องทําตามเป้าหมายชีวิตให",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b4",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "้ได้ความมุ่งมั่นไม่ย่อท้อต่ออุปสรรคใดๆ การยึดมั่นในหลักคิดอุดมการณ์",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b5",
+          "pdfLine": "7",
+          "pdfLines": [
+            7
+          ],
+          "piece": 5,
+          "text": "ในการดํารงชีวิต.....",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p11-b6",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "นอกเรื่องไปไกล ขอเข้าเรื่องแล้วกันขณะนั้นเป็นช่วง จบชั้นประถม",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b7",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "ต้องขึ้นชั้นมัธยมศึกษาปีที่ 1 ที่ รร.ชาญวิทย์ ถึงจะมีสอนถึงชั้น ม.ศ",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b8",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 8,
+          "text": "5 แต่ก็มีหลายคนที่อยากไปสอบเข้า รร.ในฝันของตนเอง ซึ่งเป็น",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b9",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 9,
+          "text": "รร.รัฐบาลชื่อดังในยุคนั้น ส่วนตัวผมเองตั้งใจไว้ว่าจะสอบเข้า",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b10",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 10,
+          "text": "รร.เทพศิรินทร์ และมีเพื่อนอีก 2-3 คนจะสอบเข้าที่นี่ด้วยที่เลือกโรงเรียนนี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b11",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 11,
+          "text": "ก็เพราะว่าอยู่ใกล้บ้าน สามารถเดินไปได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b12",
+          "pdfLine": "19",
+          "pdfLines": [
+            19
+          ],
+          "piece": 12,
+          "text": "เมื่อเด็กน้อย...",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b13",
+          "pdfLine": "19",
+          "pdfLines": [
+            19
+          ],
+          "piece": 13,
+          "text": "เชื่อคําพูดของคนที่",
+          "mode": "narration"
+        },
+        {
+          "id": "p11-b14",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 14,
+          "text": "ไม่น่าเชื่อถือความฉิบหายก็บังเกิดขึ้น..",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-011.png"
+    },
+    {
+      "pageNumber": 12,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p12-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "แต่เรื่องที่ไม่คาดฝันก็ได้เกิดขึ้น คือ",
+          "mode": "narration"
+        },
+        {
+          "id": "p12-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "มีญาติของผมคนหนึ่ง เขาบอกรู้จัก",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-0242cc89720e1214",
+          "src": "/suoi-tee-content/assets/images/image-0242cc89720e1214.png",
+          "width": 1014,
+          "height": 1192,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3333,
+            659.2969
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-012.png"
+    },
+    {
+      "pageNumber": 13,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p13-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "ผู้ใหญ่ ที่สามารถจะพาเข้ารร.นี้ได้ เมื่อถึงวันนัด เขาได้พา",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b2",
+          "pdfLine": "2-4",
+          "pdfLines": [
+            2,
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "ผมไปพบผู้ใหญ่คนนั้น รออยู่ตั้งหลายวัน ปรากฏว่าเขาพาเข้าไม่ได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "ถ้ามาบอกก่อนก็คงไปสมัครสอบเอง แต่นี่เงียบไปเลย พอรู้คําตอบจะไปสมัคร",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b4",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 4,
+          "text": "ก็เลยวันที่เขาเปิดรับสมัครไปแล้วทําให้ต้องเคว้งคว้างไม่มีที่สอบเลยเนื่องจากปิ",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b5",
+          "pdfLine": "8",
+          "pdfLines": [
+            8
+          ],
+          "piece": 5,
+          "text": "ดรับสมัครรอบแรกทุกทีแล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b6",
+          "pdfLine": "10",
+          "pdfLines": [
+            10
+          ],
+          "piece": 6,
+          "text": "การไม่ได้สมัครสอบรอบ1",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b7",
+          "pdfLine": "11",
+          "pdfLines": [
+            11
+          ],
+          "piece": 7,
+          "text": "เปลี่ยนวิถีชีวิตช่วงนั้นโดยสิ้นเชิง",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p13-b8",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 8,
+          "text": "ต้องรอการเปิดรับสมัครรอบ 2 ซึ่งส่วนมากจะเป็น รร.ที่อยู่รอบนอก",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b9",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 9,
+          "text": "จึงไปสมัครสอบ รร.ปทุมคงคา ที่อยู่เอกมัย ติดกับท้องฟ้าจําลอง เขารับ",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b10",
+          "pdfLine": "16-18",
+          "pdfLines": [
+            16,
+            17,
+            18
+          ],
+          "piece": 10,
+          "text": "400 คน คนสมัคร 1,000 กว่าคน ได้เข้าไปเป็นลําดับที่ 45",
+          "mode": "narration"
+        },
+        {
+          "id": "p13-b11",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 11,
+          "text": "ลืมบอกไปว่าที่รร.เทพศิรินทร์ เขา",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-013.png"
+    },
+    {
+      "pageNumber": 14,
+      "chapter": {
+        "id": "chapter-3",
+        "index": 2,
+        "title": "เด็กน้อยไร้เดียงสา",
+        "startPage": 6,
+        "endPage": 14
+      },
+      "lines": [
+        {
+          "id": "p14-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "รับ มศ. 1 จํานวน 175 คน แต่คนสมัคร",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "สอบไม่ทราบว่ากี่คน เพราะไม่ได้สมัคร",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "เลย.....",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b4",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "เข้าเรื่องต่อที่ รร.ปทุมคงคา รับ 400 คนแบ่งเป็น 10 ห้องห้องละ 40 คน",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b5",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "ชั้น1 กับชั้น2 จะเป็นห้องก. ข.ไล่ขึ้นไปเรื่อยๆ ชั้น3 จะเป็นห้อง ฎ.",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b6",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 6,
+          "text": "กับ ฏ. ผมก็อยู่ห้องที่ชั้น 3 ซึ่งเป็นชั้นสูงสุดของอาคารเรียน...",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b7",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "ลืมบอกไปว่าการไปสมัครสอบและเข้าเรียนที่รร.นี้ พี่สาวคนโต(ตั่วเจ้)",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b8",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "ของผมเป็นผู้พาไปสมัคร และจัดการเรื่องให้ทุกอย่างทําให้ได้มีที่เล่าเรียนในตอนนั้น...",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b9",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 9,
+          "text": "จําได้ว่าช่วงที่เรียนอยู่ ตอนจะขึ้นบันได ชั้นที่ 1 ซึ่งจะมี 4 ห้องเรียน",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b10",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 10,
+          "text": "ทุกห้องจะเสียงดังมาก เล่นกันสนุกสนานในเวลาเรียน เหมือนมีสงครามกันทุกวัน",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b11",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 11,
+          "text": "ผ่านไปชั้น 2 ซึ่งก็มี 4 ห้อง ก็เป็นเหมือนกันแต่จะดังน้อยลง เห็น",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b12",
+          "pdfLine": "17-19",
+          "pdfLines": [
+            17,
+            18,
+            19
+          ],
+          "piece": 12,
+          "text": "แล้วสงสารอาจารย์ผู้สอนมาก ว่าต้องอดทน กับความไม่มี วินัย ของนักเรียน",
+          "mode": "narration"
+        },
+        {
+          "id": "p14-b13",
+          "pdfLine": "19-20",
+          "pdfLines": [
+            19,
+            20
+          ],
+          "piece": 13,
+          "text": "พอถึงชั้น 3 มี 2 ห้องเรียน และอีก 2 ห้องเป็นห้องทํางานอาจารย์ ชั้นนี้เงียบสนิท ทุก",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-014.png"
+    },
+    {
+      "pageNumber": 15,
+      "chapter": {
+        "id": "chapter-4",
+        "index": 3,
+        "title": "วัยเด็กที่สนุกสนานได้หมดไปแล้ว",
+        "startPage": 15,
+        "endPage": 16
+      },
+      "lines": [
+        {
+          "id": "p15-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "คนตั้งใจเรียนเป็นระเบียบเรียบร้อยมาก....",
+          "mode": "narration"
+        },
+        {
+          "id": "p15-b2",
+          "pdfLine": "7",
+          "pdfLines": [
+            7
+          ],
+          "piece": 2,
+          "text": "วัยเด็กที่สนุกสนาน",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-6d5d82c95989a057",
+          "src": "/suoi-tee-content/assets/images/image-6d5d82c95989a057.jpeg",
+          "width": 524,
+          "height": 591,
+          "bbox": [
+            26.6667,
+            99.9172,
+            573.3334,
+            716.4803
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-015.png"
+    },
+    {
+      "pageNumber": 16,
+      "chapter": {
+        "id": "chapter-4",
+        "index": 3,
+        "title": "วัยเด็กที่สนุกสนานได้หมดไปแล้ว",
+        "startPage": 15,
+        "endPage": 16
+      },
+      "lines": [
+        {
+          "id": "p16-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ได้หมดไปแล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "ระยะเวลา 1 ปีของการได้เรียนที่ ชั้น ม.ศ.1ฎ ที่ รร.ปทุมคงคา +",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "เหตุการณ์ความรู้สึก + ประสบการณ์ชีวิต + ช่วงเวลาจากบ้านที่อยู่หลังวัดพระยายัง",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "มาที่ รร. ตลอดจนการใช้ชีวิตในบ้าน ณ ขณะนั้นเป็นเหตุการณ์ชีวิต",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b5",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 5,
+          "text": "ที่ทําให้รู้จักความลําบากยากเข็ญ เปลี่ยนบทบาทชีวิตจากเด็กที่วิ่งเล่นสนุกสนาน",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b6",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 6,
+          "text": "กับธรรมชาติรอบด้าน มาสู่บทเรียนแรก ของการต่อสู้ชีวิตรู้ได้ทันทีว่าวัยเด็ก",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b7",
+          "pdfLine": "11-13",
+          "pdfLines": [
+            11,
+            12,
+            13
+          ],
+          "piece": 7,
+          "text": "วันอันสดใส ได้ผ่านพ้นไปแล้ว โดยไม่มีวันหวนกลับมาอีก ตอนที่เริ่มเรียนที่",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b8",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 8,
+          "text": "รร.ปทุมคงคา ผมอายุประมาณ 14 ปีย่าง 15 ปี นํ้าหนักประมาณ 45 กิโลกรัม",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b9",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 9,
+          "text": "ความสูงประมาณ 155 เซนติเมตรนับว่ายังดูเป็นเด็กที่ตัวเล็กมาก....",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b10",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 10,
+          "text": "ไม่มีวิกฤตใด...",
+          "mode": "narration"
+        },
+        {
+          "id": "p16-b11",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 11,
+          "text": "จะสู้",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-016.png"
+    },
+    {
+      "pageNumber": 17,
+      "chapter": {
+        "id": "chapter-5",
+        "index": 4,
+        "title": "พลังสามัคคี",
+        "startPage": 17,
+        "endPage": 18
+      },
+      "lines": [
+        {
+          "id": "p17-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "\"พลัง สามัคคี\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p17-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "ได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p17-b3",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "ตอนนั้นครอบครัวที่บ้าน รับงานค่าแรงต่างๆ จากแถวนั้นมาทําที่บ้านเช่น",
+          "mode": "narration"
+        },
+        {
+          "id": "p17-b4",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "งานกดขนมครองแครง โดยกดบนแป้นไม้ เป็นขนมหวานที่เราซื้อกินใส่นํ้าแข็ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p17-b5",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 5,
+          "text": "ตอนนั้นเขาให้กก.ละกี่บาทก็จําไม่ได้แล้ว และรับจ้างพับถุงกระดาษนํ้าตาลใบใหญ่",
+          "mode": "narration"
+        },
+        {
+          "id": "p17-b6",
+          "pdfLine": "9-12",
+          "pdfLines": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "piece": 6,
+          "text": "จากตลาดโบ๊เบ๊ ตอนนั้นพี่น้องทั้ง 11 คน รวมพ่อกับแม่ ต่างช่วยกันคนละไม้คนละมือ",
+          "mode": "narration"
+        },
+        {
+          "id": "p17-b7",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 7,
+          "text": "ทุกบาทที่ได้มาทําให้พอมีรายได้ที่จะจุนเจือครอบครัวให้ผ่านพ้นไปวันๆ",
+          "mode": "narration"
+        },
+        {
+          "id": "p17-b8",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 8,
+          "text": "ทุกคนก็ประหยัดกันสุดๆ เพื่อให้ครอบครัว พ้นวิกฤตนี้ให้ได้...",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-017.png"
+    },
+    {
+      "pageNumber": 18,
+      "chapter": {
+        "id": "chapter-5",
+        "index": 4,
+        "title": "พลังสามัคคี",
+        "startPage": 17,
+        "endPage": 18
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-054ea1ddff555643",
+          "src": "/suoi-tee-content/assets/images/image-054ea1ddff555643.jpeg",
+          "width": 629,
+          "height": 1024,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3331,
+            814.2432
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-018.png"
+    },
+    {
+      "pageNumber": 19,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p19-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "งานต้องมาก่อนเพราะ",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "งานคือความอยู่รอดของ",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p19-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "ครอบครัว...",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b4",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "มีอยู่หลายครั้ง ที่ผมเลิกเรียน กลับถึงบ้านรีบขึ้นไปทําการบ้าน สักครู่..",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b5",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "เสียงตะโกนของพ่อจากข้างล่าง",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b6",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 6,
+          "text": "\"อาโซ้ยตี๋...ลื้อรีบลงมาเดี๋ยวนี้ มาช่วยพับถุงเร็วๆ\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p19-b7",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "ผมรีบทิ้งการบ้านลงไปช่วยพับถุงทันที เพราะรู้ว่าเงินทุกบาททุกสตางค์",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b8",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "นั่นคือความอยู่รอดของครอบครัว หลายครั้งพับถุง ถึง 4 ทุ่ม 5 ทุ่ม",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b9",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 9,
+          "text": "การบ้านก็ทําให้มีส่งๆไปบางวันก็ไม่ได้ทํา ต้องนอนดึกแทบทุกคืน",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b10",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 10,
+          "text": "บางครั้งก็ไปนั่งหลับในห้องเรียน ตอนเวลาอาจารย์สอน โดนอาจารย์ตําหนิก็หลายครั้ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b11",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 11,
+          "text": "ชื่ออาจารย์ประจําชั้นในตอนนั้นอยู่ในความทรงจําเสมอ....",
+          "mode": "narration"
+        },
+        {
+          "id": "p19-b12",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 12,
+          "text": "อาจารย์จันทร์ประภา เทศวิศาล",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-019.png"
+    },
+    {
+      "pageNumber": 20,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p20-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "การไปโรงเรียนของเด็กน้อย",
+          "mode": "narration"
+        },
+        {
+          "id": "p20-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "ต้องตื่นแต่เช้าตี 5 เพื่อไปโรงเรียน เดินเข้าซอยวัดบรมนิวาส",
+          "mode": "narration"
+        },
+        {
+          "id": "p20-b3",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "เพื่อไปรอรถเมล์ขาวสาย 48 บางครั้งรอนานมาก คนแน่นรถทุกวัน",
+          "mode": "narration"
+        },
+        {
+          "id": "p20-b4",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "ตอนนั้นเหมือนเป็นเด็กน้อย หิ้วกระเป๋าก็หนัก ต้องจับที่จับตรงที่นั่ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p20-b5",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "เพราะยังจับราวข้างบนไม่ถึงหลายครั้งก็จะมีผู้ใหญ่ใจดีลุกให้นั่ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p20-b6",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "ส่วนข้าวเที่ยง แรกๆ แม่จัดปิ่นโตไปกิน แต่เห็นว่า อาอี้(แม่) ต้องตื่น",
+          "mode": "narration"
+        },
+        {
+          "id": "p20-b7",
+          "pdfLine": "10",
+          "pdfLines": [
+            10
+          ],
+          "piece": 7,
+          "text": "แต่เช้ามาก เพื่อจัดอาหาร แม่นอน",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-1c6f6dc79dd808ac",
+          "src": "/suoi-tee-content/assets/images/image-1c6f6dc79dd808ac.png",
+          "width": 1536,
+          "height": 1024,
+          "bbox": [
+            26.6667,
+            54.9172,
+            573.3334,
+            421.4698
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-020.png"
+    },
+    {
+      "pageNumber": 21,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p21-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "ก็ดึก งานก็หนักจากการหารายได้ พี่ๆ น้องๆ รวมผมทุกคนยังต้องกิน",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b2",
+          "pdfLine": "2-3",
+          "pdfLines": [
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "เสื้อต้องซัก บ้านต้องถูปัญหาต่างๆ ก็เยอะมาก ก็บอกแม่ว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b3",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "จะซื้อมื้อเที่ยงที่โรงเรียนเอง ไม่ต้องทําปิ่นโตแล้วกัน จากไปโรงเรียน",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b4",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "วันละ 1.50 บาท ก็เพิ่มค่าอาหารอีกแค่ 1.50 บาท แลกกับ",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b5",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "แม่ไม่ต้องมาเตรียมปิ่นโตก็คุ้มมาก ก็น่าจะเป็นทางออก",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b6",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 6,
+          "text": "ที่ดีกว่าต้องตื่นเช้าๆมาเตรียมปิ่นโต ตอนนั้น ตอนนั้นคือ ปี 2512",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b7",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "ค่ารถเมล์ 50 สตางค์ ไปกลับ= 1 บาทค่านํ้า + อาหารกลางวันอีก 1.50",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b8",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "บาท ยังเหลือเงินค่าขนมอีก 50 สตางค์ ได้กินข้าวกลางวันที่โรงเรียนไม่น่าจะถึง",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b9",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 9,
+          "text": "10 วันด้วยซํ้า เกิดรายจ่ายที่คาดไม่ถึง จะมีวิชาที่ต้องซื้ออุปกรณ์ต่างๆเช่นวิช",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b10",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 10,
+          "text": "าวาดเขียน วิชาหัตถกรรม ซึ่งต้องใช้เงินมาซื้ออุปกรณ์ต่างๆ",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b11",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 11,
+          "text": "และจะเปลี่ยนหัตถกรรมอย่างต่อเนื่อง ไม่กล้าไปขอเงินอาอี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b12",
+          "pdfLine": "16-18",
+          "pdfLines": [
+            16,
+            17,
+            18
+          ],
+          "piece": 12,
+          "text": "เพื่อไปซื้ออุปกรณ์ต่างๆ ทําไม่ได้จริงๆ ที่จะเอ่ยปากขอตังค์ ที่",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b13",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 13,
+          "text": "แม่ก็ประหยัดสุดๆ เลือดตาแทบกระเด็น",
+          "mode": "narration"
+        },
+        {
+          "id": "p21-b14",
+          "pdfLine": "19-20",
+          "pdfLines": [
+            19,
+            20
+          ],
+          "piece": 14,
+          "text": "\"ใช้เงินจากอาหารเที่ยงนี่แหละมาเป็นค่าใช้จ่าย\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p21-b15",
+          "pdfLine": "20-21",
+          "pdfLines": [
+            20,
+            21
+          ],
+          "piece": 15,
+          "text": "จากนั้นมาไม่เคยกินอาหารเที่ยงเลย ใช่แล้ว ไม่เคยกินข้าวเที่ยงเลย แม้แต่วันเดียว....",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-021.png"
+    },
+    {
+      "pageNumber": 22,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p22-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "\"ไอ้สงค์..",
+          "mode": "speech"
+        },
+        {
+          "id": "p22-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "ทําไมมึงไม่กินข้าวไป",
+          "mode": "speech"
+        },
+        {
+          "id": "p22-b3",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 3,
+          "text": "กินด้วยกันเดี๋ยวกูเลี้ยงมึงเอง\"",
+          "mode": "speech"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-3f9f7af5930e684d",
+          "src": "/suoi-tee-content/assets/images/image-3f9f7af5930e684d.png",
+          "width": 862,
+          "height": 1078,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3331,
+            700.3174
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-022.png"
+    },
+    {
+      "pageNumber": 23,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p23-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "เมื่อเสียงออดพักเที่ยงของโรงเรียนดังขึ้น เสียงเหน่อๆ ของ",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "\"นายมานพ พึ่งทอง\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p23-b3",
+          "pdfLine": "2-4",
+          "pdfLines": [
+            2,
+            3,
+            4
+          ],
+          "piece": 3,
+          "text": "เพื่อนที่นั่งอยู่ด้วยกันถามด้วยความเป็นห่วงว่าทําไมไม่เคยเห็นลงไปกินข้าว",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b4",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 4,
+          "text": "และเสียงนี้ ก็ยังคงก้องอยู่ในหัวของผมจวบถึงทุกวันนี้ และคงตลอดไป...",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b5",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "ก็บอกว่าไม่หิวไปทุกครั้ง ช่วงพักเที่ยง ส่วนมากก็นั่งที่ห้องบ้าง",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b6",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 6,
+          "text": "ออกไปเดินเล่นบ้าง เดินไปกินนํ้าก๊อกที่อยู่ข้างล่าง ข้างๆตึก",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b7",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "ที่พวกเล่นกีฬาเขาล้างหน้าก่อนขึ้นอาคารเรียน ตอนนั้นนั่งสัปหงกในเวลาเรียนอยู่บ่อยๆ",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b8",
+          "pdfLine": "10-11",
+          "pdfLines": [
+            10,
+            11
+          ],
+          "piece": 8,
+          "text": "เพราะตื่นแต่เช้า นั่งรถเมล์แน่นอึดอัดร้อนมากๆ ทั้งไปและกลับ",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b9",
+          "pdfLine": "11-13",
+          "pdfLines": [
+            11,
+            12,
+            13
+          ],
+          "piece": 9,
+          "text": "ช่วยที่บ้านดึกดื่น นอนน้อยมาก สิ่งที่ประทับใจในเวลาเรียน คือ",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b10",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 10,
+          "text": "ความมีระเบียบวินัยในห้องเรียนหัวหน้าห้องจะมีความรับผิดชอบ มี Spirit",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b11",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 11,
+          "text": "สูงมาก ในห้องเป็นคนไทย เกินครึ่งห้อง เสียดายที่เรียนได้แค่ปีเดียว",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b12",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 12,
+          "text": "ไม่ได้อยู่ดูความสําเร็จของเพื่อนๆ ต่างจากโรงเรียนชาญวิทย์",
+          "mode": "narration"
+        },
+        {
+          "id": "p23-b13",
+          "pdfLine": "17-19",
+          "pdfLines": [
+            17,
+            18,
+            19
+          ],
+          "piece": 13,
+          "text": "ซึ่งเป็นเด็กลูกจีนเกือบทั้งห้องไปคนละเรื่อง เป็นประสบการณ์ชีวิต ประทับใจ ในแง่บวกกับ",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-023.png"
+    },
+    {
+      "pageNumber": 24,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p24-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ตนเอง ที่ได้สัมผัสบรรยากาศแบบนี้....",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-458921d70555709d",
+          "src": "/suoi-tee-content/assets/images/image-458921d70555709d.png",
+          "width": 775,
+          "height": 1071,
+          "bbox": [
+            26.6667,
+            54.9172,
+            535.3112,
+            758.8419
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-024.png"
+    },
+    {
+      "pageNumber": 25,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p25-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ทุก50สตางค์...",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "ที่สะสม",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b3",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 3,
+          "text": "มันคือความอยู่รอด...",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p25-b4",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 4,
+          "text": "ช่วงเลิกเรียนตอนนั่งรถเมล์กลับบ้านโรงเรียนเลิกบ่ายสามครึ่ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b5",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 5,
+          "text": "ถึงบ้านก็มืดคํ่าทุกวันเพราะรถติดมากๆ...",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b6",
+          "pdfLine": "6",
+          "pdfLines": [
+            6
+          ],
+          "piece": 6,
+          "text": "ไม่มีทางด่วน...",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b7",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 7,
+          "text": "ไม่มีรถไฟฟ้า...",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b8",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 8,
+          "text": "ไม่มีถนนสร้างใหม่ มีแต่ถนนสุขุมวิทที่เป็นถนนหลักเพียงเส้นเดียว",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b9",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 9,
+          "text": "อากาศก็ร้อนระอุหลายครั้งนั่งหลับในรถเมล์เป็นประจํา",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b10",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 10,
+          "text": "หลายครั้งนั่งเลยป้ายต้องเดินกลับ และหลายๆครั้งก็ต้องแกล้งนอน",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b11",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 11,
+          "text": "แกล้งเดินหลบหน้า หลบตากระเป๋ารถเมล์ ทําหน้าเหมือนคนจ่ายเงินแล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b12",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 12,
+          "text": "เพราะถ้าไม่จ่ายได้ เราก็จะเหลือเงินเพิ่มอีก 50 สตางค์....",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b13",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 13,
+          "text": "มีครั้งหนึ่งใช้กรรไกรตัดผมตัวเอง เนื่องจากพรุ่งนี้วันจันทร์",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b14",
+          "pdfLine": "17-19",
+          "pdfLines": [
+            17,
+            18,
+            19
+          ],
+          "piece": 14,
+          "text": "อาจารย์จะตรวจว่าใครไว้ผมยาวตอนนั้นพับถุงจนดึกไม่สามารถละทิ้งหน้าที่ไปตัด",
+          "mode": "narration"
+        },
+        {
+          "id": "p25-b15",
+          "pdfLine": "19",
+          "pdfLines": [
+            19
+          ],
+          "piece": 15,
+          "text": "ผมได้ เป็นความทรงจําที่ขํามาถึงทุกวันนี้....",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-025.png"
+    },
+    {
+      "pageNumber": 26,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-c11fda2950cc1113",
+          "src": "/suoi-tee-content/assets/images/image-c11fda2950cc1113.png",
+          "width": 824,
+          "height": 1216,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3334,
+            809.2885
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-026.png"
+    },
+    {
+      "pageNumber": 27,
+      "chapter": {
+        "id": "chapter-6",
+        "index": 5,
+        "title": "งานคือความอยู่รอด",
+        "startPage": 19,
+        "endPage": 27
+      },
+      "lines": [
+        {
+          "id": "p27-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "พ่อ(อาเจ็ก)....",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b2",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "คงมั่นใจว่าลูกคนนี้อนาคตต้องเป็นเถ้าแก่ได้(ความหวังสุดท้ายของ",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b3",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 3,
+          "text": "พ่อบนความเสียสละและขมขื่นของเด็กน้อย)",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "\"อาโซ้ยตี๋...ลื้อปิดเทอมเมื่อไหร่อั้วจะพาไปฝึกงานที่ร้านอาปอเจ็กไปหัดเขียนแบบ\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p27-b5",
+          "pdfLine": "8",
+          "pdfLines": [
+            8
+          ],
+          "piece": 5,
+          "text": "เสียงพ่อพูดขึ้นมาด้วยนํ้าเสียงอันมั่นใจ...",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b6",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "เป็นคําพูดที่ไม่อยากได้ยินเลย และแล้ววันนั้นก็มาถึงกับเด็กไร้เดียงสาคนนี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b7",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "ที่กลัวการทํางานนอกบ้านมาก เพราะมองเห็นถึงความปรารถนาของอาเจ็กว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b8",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 8,
+          "text": "อยากจะให้เป็นเจ้าคนนายคน ไม่อยากให้เรียนหนังสือ จบมาก็เป็นแค่ลูกจ้างไปตลอดชีวิต",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b9",
+          "pdfLine": "14",
+          "pdfLines": [
+            14
+          ],
+          "piece": 9,
+          "text": "คําพูดผู้ใหญ่สมัยนั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p27-b10",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 10,
+          "text": "\"เรียนสูงก็เป็นลูกจ้าง เรียนน้อยก็เป็นเถ้าแก่\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p27-b11",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 11,
+          "text": "\"ทํางานธนาคารก็เปิดธนาคารไม่ได้\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p27-b12",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 12,
+          "text": "\"ทํางานโรงแรมมีทิปลูกค้า ก็จะหวังแต่เงินทิป\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p27-b13",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 13,
+          "text": "\"ทํางานเป็นอาเนี๊ยว อีกหน่อยก็ได้เป็นเถ้าแก่\"",
+          "mode": "speech"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-027.png"
+    },
+    {
+      "pageNumber": 28,
+      "chapter": {
+        "id": "chapter-7",
+        "index": 6,
+        "title": "วันเปิดเทอมเหมือนวันสิ้นโลก",
+        "startPage": 28,
+        "endPage": 33
+      },
+      "lines": [
+        {
+          "id": "p28-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "วันที่เปิดเทอมเหมือนเป็น",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-d00a774a0f33f536",
+          "src": "/suoi-tee-content/assets/images/image-d00a774a0f33f536.png",
+          "width": 849,
+          "height": 1052,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3325,
+            694.0435
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-028.png"
+    },
+    {
+      "pageNumber": 29,
+      "chapter": {
+        "id": "chapter-7",
+        "index": 6,
+        "title": "วันเปิดเทอมเหมือนวันสิ้นโลก",
+        "startPage": 28,
+        "endPage": 33
+      },
+      "lines": [
+        {
+          "id": "p29-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "วันสิ้นโลกสําหรับเด็กน้อย",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "\"ชีวิตนี้...",
+          "mode": "speech"
+        },
+        {
+          "id": "p29-b3",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 3,
+          "text": "ช่างโหดร้ายและ",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b4",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 4,
+          "text": "มืดมนนัก\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p29-b5",
+          "pdfLine": "5",
+          "pdfLines": [
+            5
+          ],
+          "piece": 5,
+          "text": "ตอนนั้น...",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b6",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 6,
+          "text": "ฝึกงานจนใกล้จะถึงวันเปิดเรียน ทุกคนในบ้าน ไม่มีใครสนใจถาม",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b7",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 7,
+          "text": "หรือพูดคุยว่าเปิดเทอมเมื่อไหร่ ซื้อหนังสือเมื่อไหร่ ทุกๆ คนยังคงทํางานหาเงิน",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b8",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 8,
+          "text": "เพื่อให้ครอบครัวอยู่รอด เหมือนตัวเราไม่มีตัวตนอยู่ในบ้าน การเรียนของ",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b9",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 9,
+          "text": "ผม ไม่ได้อยู่ในความสนใจของใครๆในบ้านแล้ว ความคิดผม ณ",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b10",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 10,
+          "text": "ตอนนั้นว่าเกิดอะไรขึ้นกับที่บ้านนะมันเกิดอะไรขึ้น ตั้งแต่ ป.1 ถึงป.7",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b11",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 11,
+          "text": "มีแต่คนสนใจอย่างมากกับการเรียน พอเรียนมศ.1 ก็ไม่มีใครสนใจ",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b12",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 12,
+          "text": "เหมือนเขาตัดใจปล่อยให้เราหลุดลอยจากการเรียนไป ไม่มีมศ.2 อีกแล้ว...",
+          "mode": "narration"
+        },
+        {
+          "id": "p29-b13",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 13,
+          "text": "แต่อีกความรู้สึกก็เข้าใจในสภาพ",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-029.png"
+    },
+    {
+      "pageNumber": 30,
+      "chapter": {
+        "id": "chapter-7",
+        "index": 6,
+        "title": "วันเปิดเทอมเหมือนวันสิ้นโลก",
+        "startPage": 28,
+        "endPage": 33
+      },
+      "lines": [
+        {
+          "id": "p30-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ครอบครัว....",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "ณขณะนั้นปี2513เป็นปีแรกที่ย้ายมาจากบ้านตรอกพุฒมาที่บ้าน494นี้ด้วยเงินของ",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b3",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 3,
+          "text": "พ่อที่ขึ้นท้าวแชร์รวมกับเงินอาอี๊ที่อาอี้ต้องขายทองคําที่เก็บสะสมทั้งหมดกับเข็มขัดนาค",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b4",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 4,
+          "text": "ซึ่งทองขณะนั้นอยู่ที่บาทละ 400 บาท รวมกับเงินเก็บสะสมของอาอี๊",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b5",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 5,
+          "text": "ก็พอที่จะซื้อห้องแถวได้ 2 ห้อง คือบ้านเลขที่ 494 กับ 494/1",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b6",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 6,
+          "text": "เพื่อให้ทุกคนได้อยู่อย่างสบายๆ กับจํานวนคนที่มี คือพ่อแม่ ลูก 11 คน",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b7",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "ตอนนั้น แม้แต่เงินที่จะตกแต่งบ้าน ก็ยังต้องค่อยๆ ทํางานไปซ่อมไป ตก",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b8",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 8,
+          "text": "แต่งไปตามงบที่มี ด้วยว่าลูกหลายคน ซึ่งทุกคนต้องกินต้องใช้...",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b9",
+          "pdfLine": "16",
+          "pdfLines": [
+            16
+          ],
+          "piece": 9,
+          "text": "ตอนนนั้น...",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b10",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "ผมอายุ 15 ปี มีพี่ 5 คน 22 ปี 20 ปี 19 ปี 18 ปี 16 ปี ลงไปก็เป็นน้องๆอีก",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b11",
+          "pdfLine": "17-19",
+          "pdfLines": [
+            17,
+            18,
+            19
+          ],
+          "piece": 11,
+          "text": "5 คน อายุ 13, 11, 9, 8 และคนเล็ก 4 ขวบ ทุกคนยังหารายได้ไม่ได้สักคน",
+          "mode": "narration"
+        },
+        {
+          "id": "p30-b12",
+          "pdfLine": "19-20",
+          "pdfLines": [
+            19,
+            20
+          ],
+          "piece": 12,
+          "text": "ครอบครัวได้แต่หางานค่าแรงจากแถวๆนั้น มาร่วมมือร่วมใจช่วยกันทํา",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-030.png"
+    },
+    {
+      "pageNumber": 31,
+      "chapter": {
+        "id": "chapter-7",
+        "index": 6,
+        "title": "วันเปิดเทอมเหมือนวันสิ้นโลก",
+        "startPage": 28,
+        "endPage": 33
+      },
+      "lines": [
+        {
+          "id": "p31-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ทุกคน ตอนนั้นก็ต่อสู้ ดิ้นรนกันแบบสุดชีวิต...",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p31-b2",
+          "pdfLine": "2-3",
+          "pdfLines": [
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "ด้วยสภาพแวดล้อม และสถานการณ์แบบนี้ เหมือนเรือที่รั่วกําลังจะจม",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b3",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "แล้วทุกคนช่วยกันวิดนํ้า เพื่อให้พ้นจากวิกฤตนี้ ใครเล่าจะมีเวลามีใจให้ที่จะคิดถึง",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b4",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "ผมแม้แต่เสี้ยววินาทีณ ขณะนั้นความคิดผมก็รู้ทันทีว่า จากสถานการณ์นี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b5",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "โอกาสที่จะได้เรียนต่อเป็นไปไม่ได้แล้ว ความฝันเรื่องเรียนที่เคยวาดฝันไว้ได้สิ้",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b6",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "นสลายลงแล้ว ฉากชีวิตการทํางาน ก็เป็นเรื่องที่หลีกเลี่ยงไม่ได้แล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b7",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "ผมไม่กล้า แม้แต่จะเอ่ยปากบอกที่บ้านว่า วันนี้เป็นวันที่โรงเรียนกําหนดว่าต้องไป",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b8",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 8,
+          "text": "ซื้อหนังสือเรียน คิดแต่ว่าแม่จะต้องเสียเงิน ซึ่งในครอบครัวเงินก็ไม่พอใช้อยู่แล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b9",
+          "pdfLine": "15",
+          "pdfLines": [
+            15
+          ],
+          "piece": 9,
+          "text": "ตอนที่โรงเรียนเปิดเทอม...",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b10",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "น้องๆ ทุกคนไปโรงเรียนตามปกติ คนในบ้านไม่มีเสียงใครสักคน ที่เอ่ยปากถาม",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b11",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 11,
+          "text": "ผมว่าไม่ไปโรงเรียนเหรอ หรือเปิดเทอมเมื่อไหร่ หรือทําไมไม่ไปโรงเรียน",
+          "mode": "narration"
+        },
+        {
+          "id": "p31-b12",
+          "pdfLine": "18-20",
+          "pdfLines": [
+            18,
+            19,
+            20
+          ],
+          "piece": 12,
+          "text": "ก็เป็นความ สะเทือนใจ อย่างมากสําหรับเด็กน้อยที่เป็นวันแรกของการสิ้นสุดการเรียน....",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-031.png"
+    },
+    {
+      "pageNumber": 32,
+      "chapter": {
+        "id": "chapter-7",
+        "index": 6,
+        "title": "วันเปิดเทอมเหมือนวันสิ้นโลก",
+        "startPage": 28,
+        "endPage": 33
+      },
+      "lines": [
+        {
+          "id": "p32-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "เมื่อเด็กน้อย...",
+          "mode": "narration"
+        },
+        {
+          "id": "p32-b2",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "สถานะการเป็นนักเรียนต้องสิ้นสลายต้องกลายเป็นผู้ใช้แรงงาน",
+          "mode": "narration"
+        },
+        {
+          "id": "p32-b3",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 3,
+          "text": "แล้วชีวิตจะดําเนินต่อไปได้อย่างไร....",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p32-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "ตอนที่ไปทํางานช่วงแรกๆ ผมใส่กางเกงนักเรียนสีกากีขาสั้น ซึ่งมีอยู่",
+          "mode": "narration"
+        },
+        {
+          "id": "p32-b5",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 5,
+          "text": "2 ตัว เสื้อที่ใส่เป็นสีนํ้าข้าวที่มีอยู่ 1 ตัว ทํางานกลับมาต้องรีบซักเองทันที",
+          "mode": "narration"
+        },
+        {
+          "id": "p32-b6",
+          "pdfLine": "9",
+          "pdfLines": [
+            9
+          ],
+          "piece": 6,
+          "text": "เพื่อให้แห้งทันพรุ่งนี้มีใส่ กกน.มีอยู่ 1 ตัว",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-bb6993ba5d8e6eee",
+          "src": "/suoi-tee-content/assets/images/image-bb6993ba5d8e6eee.png",
+          "width": 1448,
+          "height": 1086,
+          "bbox": [
+            26.6667,
+            16.6672,
+            571.0604,
+            424.9615
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-032.png"
+    },
+    {
+      "pageNumber": 33,
+      "chapter": {
+        "id": "chapter-7",
+        "index": 6,
+        "title": "วันเปิดเทอมเหมือนวันสิ้นโลก",
+        "startPage": 28,
+        "endPage": 33
+      },
+      "lines": [
+        {
+          "id": "p33-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "เป็นสีแดง ด้านข้างจะมีกระดุม 2 เม็ด ซึ่งเอามาจากกั๊ปปิ๊ก",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b2",
+          "pdfLine": "2-3",
+          "pdfLines": [
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "ของคนที่มาจากเมืองจีนมาฝากที่บ้านตรอกพุฒ ช่วงที่เขายังหาที่อยู่ไม่ได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b3",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 3,
+          "text": "แต่ก็ไม่มีใครที่ฝากของแล้วมาเอาคืนเลยสักคนเดียว",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "เรียกได้ว่าฐานะที่บ้านอยู่ในขั้นยากจนมาก ประหยัดกันอย่างสุดๆ แม้",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b5",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "แต่เสื้อผ้ายังไม่มีจะใส่ เพราะไม่มีเงินซื้อ คงไม่ต้องถามว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b6",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "ช่วงนั้นตอนเที่ยงกินข้าวหรือเปล่า ใช่แล้วกินแต่นํ้าก๊อกที่ร้าน",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b7",
+          "pdfLine": "10",
+          "pdfLines": [
+            10
+          ],
+          "piece": 7,
+          "text": "แกล้งทําเนียนไปล้างหน้า..",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b8",
+          "pdfLine": "10",
+          "pdfLines": [
+            10
+          ],
+          "piece": 8,
+          "text": "555",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b9",
+          "pdfLine": "12",
+          "pdfLines": [
+            12
+          ],
+          "piece": 9,
+          "text": "พล่ามมาถึงตอนนี้แล้ว....",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b10",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 10,
+          "text": "ก็หวังว่าทุกคนคงจะเข้าใจนะว่าทําไมอาโซ้ยตี๋...",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b11",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 11,
+          "text": "ถึงไม่ได้เรียนต่อ ผมเข้าใจในทุกคนในขณะนั้นดีแบบถ่องแท้เกินเด็กวัย15ปี",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b12",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 12,
+          "text": "และเต็มใจเสียสละชีวิตการเรียนเพื่อมาทํางานแบ่งเบาภาระครอบครัวด้วยความเต็มใจอย่",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b13",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 13,
+          "text": "างที่สุดด้วยความมุงมั่นและมั่นใจว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p33-b14",
+          "pdfLine": "18-19",
+          "pdfLines": [
+            18,
+            19
+          ],
+          "piece": 14,
+          "text": "\"อนาคตชีวิตเราต้องดีกว่านี้แน่นอน\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p33-b15",
+          "pdfLine": "19-20",
+          "pdfLines": [
+            19,
+            20
+          ],
+          "piece": 15,
+          "text": "เป็นเรื่องธรรมดาที่พี่น้องบางคนก็ต้องได้เรียนต่อ บางคนก็ต้อง",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-033.png"
+    },
+    {
+      "pageNumber": 34,
+      "chapter": {
+        "id": "chapter-8",
+        "index": 7,
+        "title": "บันไดขั้นแรกของพ่อ",
+        "startPage": 34,
+        "endPage": 35
+      },
+      "lines": [
+        {
+          "id": "p34-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "เสียสละออกมาทํางานสร้างรายได้เพื่อแบ่ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "เบาภาระของครอบครัว",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b3",
+          "pdfLine": "8",
+          "pdfLines": [
+            8
+          ],
+          "piece": 3,
+          "text": "บันไดขั้นแรก...",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b4",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 4,
+          "text": "ของพ่อเริ่มเป็นความจริง",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b5",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 5,
+          "text": "\"ไอ้ลูกคนนี้อนาคตมันต้องเป็นเถ้าแก่ได้แน่..\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p34-b6",
+          "pdfLine": "11",
+          "pdfLines": [
+            11
+          ],
+          "piece": 6,
+          "text": "ใช่แล้ว...",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b7",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "อาเจ็กมองไม่ผิดเพราะนั่นคือ...",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b8",
+          "pdfLine": "12",
+          "pdfLines": [
+            12
+          ],
+          "piece": 8,
+          "text": "หลังจากนี้อีก5ปี",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b9",
+          "pdfLine": "14",
+          "pdfLines": [
+            14
+          ],
+          "piece": 9,
+          "text": "พ่อพาไปเป็นเด็กฝึกงานที่ร้านอาปอ",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b10",
+          "pdfLine": "15",
+          "pdfLines": [
+            15
+          ],
+          "piece": 10,
+          "text": "เจ็กซึ่งเป็นเพื่อนของพ่อชื่อร้าน",
+          "mode": "narration"
+        },
+        {
+          "id": "p34-b11",
+          "pdfLine": "15",
+          "pdfLines": [
+            15
+          ],
+          "piece": 11,
+          "text": "\"วัฒนศิลป์\"",
+          "mode": "speech"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-c82066a400252542",
+          "src": "/suoi-tee-content/assets/images/image-c82066a400252542.png",
+          "width": 1620,
+          "height": 971,
+          "bbox": [
+            26.6667,
+            97.6672,
+            573.3334,
+            425.3298
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-034.png"
+    },
+    {
+      "pageNumber": 35,
+      "chapter": {
+        "id": "chapter-8",
+        "index": 7,
+        "title": "บันไดขั้นแรกของพ่อ",
+        "startPage": 34,
+        "endPage": 35
+      },
+      "lines": [
+        {
+          "id": "p35-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "เป็นร้านทําบล็อกแม่พิมพ์ส่งให้โรงพิมพ์ที่มาจ้างทําซึ่งขั้นตอนก่อนที่จะเป็น",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b2",
+          "pdfLine": "2-3",
+          "pdfLines": [
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "แม่พิมพ์ต้องมีการเขียนแบบก่อนแล้วให้ลูกค้าดู",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b3",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "เมื่อพอใจในแบบก็ใช้แบบนี้มาขึ้นเป็นบล็อกแม่พิมพ์ต่อไป ตอนนั้นพ่อ",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b4",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "ผมสนใจในแผนกเขียนแบบเป็นทุนเดิมอยู่แล้วเพราะที่ผ่านมา",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b5",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "พ่อนอกจากทําดินนํ้ามันเองที่บ้านเป็นรายได้หลัก",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b6",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 6,
+          "text": "แล้วยังเป็นผู้ผลิตของเล่นที่ทําด้วยกระดาษนานาชนิดส่งตลาดสําเพ็ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b7",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "ซึ่งต้องมีการออกแบบเขียนแบบตลอดเวลา....",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b8",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 8,
+          "text": "การที่พ่อพาผมมาฝากเป็นเด็กฝึกงาน ตอนนั้นผมก็ไม่รู้ด้วยซํ้าว่าจะให้มาทําอะไร",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b9",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 9,
+          "text": "เป็นเด็กไร้เดียงสาจริงๆ คิดว่ามาฝึกหัด 2-3 เดือน เปิดเทอมเราก็ไปเรียนต่อ",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b10",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "ช่วงแรกๆ ก็ไม่ได้ฝึกอะไรจริงจัง แค่ให้ผ่านไปวันๆ จนถึงวันที่ต้องซื้อหนังสือที่",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b11",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 11,
+          "text": "รร.ปทุมคา ก่อนหน้านั้นมีบอกทางบ้านไว้แล้ว แต่เมื่อถึงวันนั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b12",
+          "pdfLine": "18-19",
+          "pdfLines": [
+            18,
+            19
+          ],
+          "piece": 12,
+          "text": "ไม่มีใครพูดถึง เอ่ยถึงทุกคนยังคงทํางานค่าแรง เช้ายันดึกทุกวัน.",
+          "mode": "narration"
+        },
+        {
+          "id": "p35-b13",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 13,
+          "text": "ครอบครัวตอนนั้นอยู่ในขั้นลําบากยากเข็ญ",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-035.png"
+    },
+    {
+      "pageNumber": 36,
+      "chapter": {
+        "id": "chapter-9",
+        "index": 8,
+        "title": "มหาลัยชีวิตบทแรก",
+        "startPage": 36,
+        "endPage": 39
+      },
+      "lines": [
+        {
+          "id": "p36-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "อย่างรุนแรง",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b2",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 2,
+          "text": "ตอนนั้น...",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b3",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 3,
+          "text": "เป็นปีที่ 2 ที่ย้ายมาจากตรอกพุฒจุฬา มาที่ 494 หลังวัดพระยายัง",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b4",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "พ่อยังมีหนี้เล่นแชร์ ที่พ่อเป็นท้าวแชร์ แล้วก็มีปัญหาอะไรบางอย่าง",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b5",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "ผมก็เด็กเกินไปที่จะเข้าใจในปัญหาของผู้ใหญ่ ช่วงที่ผมฝึกงานอยู่ที่ทํางาน",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b6",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 6,
+          "text": "จะมีลูกแชร์ สลับกันมา มากหน้าหลายตา มาพูดจาต่อว่า บางคนด่ารุนแรงคุยกับอาปอเจ็ก",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b7",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 7,
+          "text": "คงเพื่อหวังให้ผมเป็นสื่อ ไปบอกที่บ้านให้มาใช้เงินแชร์ที่เป็นหนี้.....",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b8",
+          "pdfLine": "12",
+          "pdfLines": [
+            12
+          ],
+          "piece": 8,
+          "text": "เมื่อเด็กน้อย...",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b9",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 9,
+          "text": "ต้องเผชิญกับความโหดร้ายของมหาลัยชีวิตบทแรก....",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p36-b10",
+          "pdfLine": "15",
+          "pdfLines": [
+            15
+          ],
+          "piece": 10,
+          "text": "ต้องมาทนฟังคําด่า...",
+          "mode": "narration"
+        },
+        {
+          "id": "p36-b11",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 11,
+          "text": "สาปแช่งจากผู้ใหญ่ที่ไม่รู้จักกันทุกๆวัน(เป็นปี)นี่มันเกิดอะไรขึ้น....",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-036.png"
+    },
+    {
+      "pageNumber": 37,
+      "chapter": {
+        "id": "chapter-9",
+        "index": 8,
+        "title": "มหาลัยชีวิตบทแรก",
+        "startPage": 36,
+        "endPage": 39
+      },
+      "lines": [
+        {
+          "id": "p37-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "มันช่างเป็นช่วงเวลาที่เลวร้าย และสะเทือนใจอย่างรุนแรงของชีวิตเด็กน้อยไร้เดียงสาอายุ",
+          "mode": "narration"
+        },
+        {
+          "id": "p37-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "15 ปี ที่ต้องได้รับในขณะนั้น ผมจําหน้ากับจําชื่อเพื่อน",
+          "mode": "narration"
+        },
+        {
+          "id": "p37-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "พ่อเหล่านั้นที่มาทวงเงินได้ดีทุกคน แต่ผมไม่เคยไปเล่าเรื่องนี้ให้ที่บ้านฟังเลย",
+          "mode": "narration"
+        },
+        {
+          "id": "p37-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "เพราะครอบครัวที่บ้านตอนนั้น ไม่ค่อยมีเงินเลย ไม่สามารถที่จะหาเงินไปคืนเขา",
+          "mode": "narration"
+        },
+        {
+          "id": "p37-b5",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "แค่เอาตัวรอดไปวันๆยังยากเลย ถ้าขืนบอกไป ก็ไป",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-b57bd713e94feace",
+          "src": "/suoi-tee-content/assets/images/image-b57bd713e94feace.png",
+          "width": 967,
+          "height": 721,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3334,
+            424.2646
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-037.png"
+    },
+    {
+      "pageNumber": 38,
+      "chapter": {
+        "id": "chapter-9",
+        "index": 8,
+        "title": "มหาลัยชีวิตบทแรก",
+        "startPage": 36,
+        "endPage": 39
+      },
+      "lines": [
+        {
+          "id": "p38-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "เพิ่มความทุกข์ใจพ่อแม่อีก....",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "(แต่อาอี๊..",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b3",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 3,
+          "text": "มีแอบถามผมอยู่ด้วยความไม่สบายใจอย่างมาก) ตอนนั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b4",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 4,
+          "text": "ผมก็มีความเห็นใจอาอี้เป็นอย่างมากที่ต้องแบกความไม่สบายใจที่หนักอึ้งนี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b5",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 5,
+          "text": "\"ทุกข์ที่หนักที่สุดของอาอี๊ก็คือการเป็นหนี้\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p38-b6",
+          "pdfLine": "6",
+          "pdfLines": [
+            6
+          ],
+          "piece": 6,
+          "text": "ต้องกัดฟันสู้ต่อไป แล้วสิ่งดีๆก็จะเข้ามา...",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b7",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 7,
+          "text": "แต่หลังจากนั้นอีกหลายปีก็มีการนําเงินไปคืนจนครบทุกคน",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b8",
+          "pdfLine": "10-11",
+          "pdfLines": [
+            10,
+            11
+          ],
+          "piece": 8,
+          "text": "ขอมาเข้าเรื่อง การไม่ได้เรียนต่ออีกหน่อย...",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b9",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 9,
+          "text": "ครอบครัวตอนนั้นอยู่ในสถานการณ์ที่ลําบากมากขนาดนั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b10",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 10,
+          "text": "ผมไม่สามารถทําให้ครอบครัวเป็นทุกข์มากขึ้นกว่านี้ได้ ตอนนั้นอยากจะเรียนใจจะขาด",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b11",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 11,
+          "text": "ทุกครั้งที่เห็นเด็กที่ถือกระเป๋าไปโรงเรียน ก็จะรู้สึกสะเทือนใจอย่างมาก",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b12",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 12,
+          "text": "ความฝันของเราต้องได้เข้าไปเรียนในรั้วจุฬาฯได้สูญสลายไปแล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b13",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 13,
+          "text": "เพื่อนๆเราที่ รร.ปทุมคงคาทุกคน คงได้เรียนต่อ มศ. 2 ขาด",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b14",
+          "pdfLine": "18-20",
+          "pdfLines": [
+            18,
+            19,
+            20
+          ],
+          "piece": 14,
+          "text": "แต่เราคนเดียวที่หายตัวไป เขาคงไม่รู้ว่าผมต้องประสบกับชะตากรรมอย่างไร",
+          "mode": "narration"
+        },
+        {
+          "id": "p38-b15",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 15,
+          "text": "แต่ผมก็ต้องเข้มแข็ง ถ้าผม",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-038.png"
+    },
+    {
+      "pageNumber": 39,
+      "chapter": {
+        "id": "chapter-9",
+        "index": 8,
+        "title": "มหาลัยชีวิตบทแรก",
+        "startPage": 36,
+        "endPage": 39
+      },
+      "lines": [
+        {
+          "id": "p39-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "จมอยู่กับความท้อแท้แบบนี้ ไม่ใช่สิ่งที่ถูกต้อง",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "แน่ ตอนนั้นรวบรวมสติเพื่อที่จะทําให้ชีวิต",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p39-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "ดําเนินต่อไปได้อย่างไม่สะดุด",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b4",
+          "pdfLine": "5",
+          "pdfLines": [
+            5
+          ],
+          "piece": 4,
+          "text": "ตอนนั้นมีหลักคิดขึ้นมาทันทีว่า....",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b5",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "เพื่อนๆที่เรียนหนังสือ เมื่อจบมาเป้าหมายก็เพื่อทํางานเขาต้องเรียนประมาณอีก",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b6",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 6,
+          "text": "9 ปี ถึงจะจบมหาวิทยาลัย เราเพียงแต่ทํางานก่อนเขา 9 ปี",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b7",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "แล้วเรามาเจอกันในสนามการทํางาน ถึงตอนนั้นเราต้องเก่งไม่แพ้",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b8",
+          "pdfLine": "10-11",
+          "pdfLines": [
+            10,
+            11
+          ],
+          "piece": 8,
+          "text": "เพื่อนๆเหล่านั้น เราต้องทําให้ได้....",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b9",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 9,
+          "text": "\" นี่แหละคือปณิธานที่ตั้งไว้ในชีวิตตอนนั้น\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p39-b10",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 10,
+          "text": "ให้เราเข้มแข็ง ยืนหยัดอย่างมั่นคง เราต้องต่อสู้กับการใช้ชีวิตตามลําพังคนเดียว",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b11",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 11,
+          "text": "ต้องใจสู้ขยัน อดทน ต่อทุกสิ่ง และมุ่งไปข้างหน้าสู่เป้าหมายที่เราตั้งใจไว้",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b12",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 12,
+          "text": "ถ้าเรามุ่งมั่นตั้งใจทํามันทุกวันทุกวัน เป็นเดือน เป็นปี และหลายปี",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b13",
+          "pdfLine": "16-18",
+          "pdfLines": [
+            16,
+            17,
+            18
+          ],
+          "piece": 13,
+          "text": "มันก็ต้องประสบความสําเร็จ เหมือนตอน 7 ขวบ จะอ่านหนังสือไม่ออกเลย",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b14",
+          "pdfLine": "18-19",
+          "pdfLines": [
+            18,
+            19
+          ],
+          "piece": 14,
+          "text": "พอเรียนแค่ ป.1 เราก็เริ่มอ่านหนังสือได้แล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b15",
+          "pdfLine": "19-20",
+          "pdfLines": [
+            19,
+            20
+          ],
+          "piece": 15,
+          "text": "ไปงานศิลปหัตถกรรมนักเรียนที่โรงเรียนเตรียมอุดม ที่เขาจัด 1-7",
+          "mode": "narration"
+        },
+        {
+          "id": "p39-b16",
+          "pdfLine": "20-21",
+          "pdfLines": [
+            20,
+            21
+          ],
+          "piece": 16,
+          "text": "ธันวาคมของทุกปี อยู่ที่ห้องสมุดของโรงเรียนได้ทั้งวัน อ่านนิ",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-039.png"
+    },
+    {
+      "pageNumber": 40,
+      "chapter": {
+        "id": "chapter-10",
+        "index": 9,
+        "title": "ครูที่ดีที่สุดคือตัวเราเอง",
+        "startPage": 40,
+        "endPage": 42
+      },
+      "lines": [
+        {
+          "id": "p40-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ทานสโนไวท์กับคนแคระทั้งเจ็ด กับหนังสือ",
+          "mode": "narration"
+        },
+        {
+          "id": "p40-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "การ์ตูนนิยาย อื่นๆได้ทั้งวันตอนนั้น 8 ขวบฮ่าๆ",
+          "mode": "narration"
+        },
+        {
+          "id": "p40-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "ๆๆ....",
+          "mode": "narration"
+        },
+        {
+          "id": "p40-b4",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 4,
+          "text": "(นอกเรื่องไปไกล ขอเข้าเรื่องเลย)",
+          "mode": "narration"
+        },
+        {
+          "id": "p40-b5",
+          "pdfLine": "9",
+          "pdfLines": [
+            9
+          ],
+          "piece": 5,
+          "text": "\"อาจารย์ที่ดีที่สุดก็คือตัว",
+          "mode": "speech"
+        },
+        {
+          "id": "p40-b6",
+          "pdfLine": "10",
+          "pdfLines": [
+            10
+          ],
+          "piece": 6,
+          "text": "ของเราเอง\" ปรัชญาของคนที่",
+          "mode": "speech"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-aa6cdd3b1d00bfcd",
+          "src": "/suoi-tee-content/assets/images/image-aa6cdd3b1d00bfcd.png",
+          "width": 1050,
+          "height": 1024,
+          "bbox": [
+            26.6667,
+            131.4172,
+            573.3325,
+            664.5466
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-040.png"
+    },
+    {
+      "pageNumber": 41,
+      "chapter": {
+        "id": "chapter-10",
+        "index": 9,
+        "title": "ครูที่ดีที่สุดคือตัวเราเอง",
+        "startPage": 40,
+        "endPage": 42
+      },
+      "lines": [
+        {
+          "id": "p41-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ต้องต่อสู้ตามลําพังคนเดียว....",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b2",
+          "pdfLine": "2-3",
+          "pdfLines": [
+            2,
+            3
+          ],
+          "piece": 2,
+          "text": "คําว่าครูฝึกในมหาลัยชีวิตไม่มีอยู่จริง...",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p41-b3",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 3,
+          "text": "มีแต่คําว่าผลประโยชน์ที่จะได้รับ...",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b4",
+          "pdfLine": "4",
+          "pdfLines": [
+            4
+          ],
+          "piece": 4,
+          "text": "$$$$$$",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b5",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 5,
+          "text": "ฝึกงาน 4 เดือนแรก ไม่มีเงินเดือนเนื่องจากเราอยู่ระหว่างฝึกงาน",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b6",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 6,
+          "text": "ยังทํางานไม่เป็นอะไรเลย หลังจากนั้นได้รับเงินเดือน เดือนละ 300 บาท",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b7",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 7,
+          "text": "งานหลักในตอนนั้นคือไปสั่งกาแฟเพื่อเลี้ยงลูกค้า และเพื่อนพวกพ้องของเ",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b8",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "ถ้าแก่ที่มาหา การไปฝึกงานที่ร้านอาปอเจ็ก ซึ่งเป็นเพื่อนรักของพ่อ....",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b9",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 9,
+          "text": "หลังจากพ่อพาไปฝากตัวเป็นทางการ เถ้าแก่ก็พาเดินไปฝากกับลูกพี่คนแรกที่มีชื่อว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b10",
+          "pdfLine": "14",
+          "pdfLines": [
+            14
+          ],
+          "piece": 10,
+          "text": "\"วิรัช เพชรเทวี\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p41-b11",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 11,
+          "text": "อายุประมาณ 25 ปีเป็นคนแต่งตัวเนี๊ยบมาก ใส่กางเกงขามอส สีสันสดใสตามยุคสมัยปี",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b12",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 12,
+          "text": "70'S หน้าที่คือเช็ดโต๊ะทุกเช้า ใช้ให้ไปซื้อนํ้า ซื้อขนม มาวันหนึ่ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p41-b13",
+          "pdfLine": "17-19",
+          "pdfLines": [
+            17,
+            18,
+            19
+          ],
+          "piece": 13,
+          "text": "ลูกพี่คนนี้บอก \"ไอ้ตี๋ ช่วยเอาจดหมายนี้ไปให้สาวที่เป็นช่างเสริมสวยข้างร้านคนที่",
+          "mode": "speech"
+        },
+        {
+          "id": "p41-b14",
+          "pdfLine": "19",
+          "pdfLines": [
+            19
+          ],
+          "piece": 14,
+          "text": "ผมยาวคนนั้นให้",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-041.png"
+    },
+    {
+      "pageNumber": 42,
+      "chapter": {
+        "id": "chapter-10",
+        "index": 9,
+        "title": "ครูที่ดีที่สุดคือตัวเราเอง",
+        "startPage": 40,
+        "endPage": 42
+      },
+      "lines": [
+        {
+          "id": "p42-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "หน่อย\" ไอ้เราก็เป็นเด็กขี้อาย ไม่กล้าเอาไปให้เขาโมโหมาก โกรธ",
+          "mode": "speech"
+        },
+        {
+          "id": "p42-b2",
+          "pdfLine": "2-4",
+          "pdfLines": [
+            2,
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "เกลียดไปเลยถูกเขาตัดขาดไม่สอนเลย และห้ามมาแอบดูตอนที่เขาเขียนแบบ",
+          "mode": "narration"
+        },
+        {
+          "id": "p42-b3",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "เท่ากับแค่เริ่มต้น ก็ไม่มีคนสอนแล้ว ก็ต้องใช้วิธีแอบดู ช่างเขียนคนอื่น",
+          "mode": "narration"
+        },
+        {
+          "id": "p42-b4",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "ซึ่งตอนนั้นมีทั้งหมด 3 คนก็ได้แต่ไปแอบดูข้างหลัง ตอนเขาทํางาน ว่าเขาเขียนกันอย่างไร",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-aa6a73748e8c392a",
+          "src": "/suoi-tee-content/assets/images/image-aa6a73748e8c392a.png",
+          "width": 1248,
+          "height": 940,
+          "bbox": [
+            26.6667,
+            363.1678,
+            573.3322,
+            774.9191
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-042.png"
+    },
+    {
+      "pageNumber": 43,
+      "chapter": {
+        "id": "chapter-11",
+        "index": 10,
+        "title": "การฝึกงานในมหาลัยชีวิต",
+        "startPage": 43,
+        "endPage": 46
+      },
+      "lines": [
+        {
+          "id": "p43-b1",
+          "pdfLine": "1-4",
+          "pdfLines": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "piece": 1,
+          "text": "\"การฝึกงานในมหาลัยชีวิตไม่มีคําสอนแม้แต่คําเดียวไม่มีแบบฝึกหัดทุกอย่างต้องเรีย",
+          "mode": "speech"
+        },
+        {
+          "id": "p43-b2",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 2,
+          "text": "นรู้ด้วยตัวเองเท่านั้นหากไม่พอใจก็เดินออกไปได้ทุกเมื่อ\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p43-b3",
+          "pdfLine": "8",
+          "pdfLines": [
+            8
+          ],
+          "piece": 3,
+          "text": "มีลูกพี่อีกคนมีชื่อว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p43-b4",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 4,
+          "text": "\"เชิดชัย ทนมณี\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p43-b5",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 5,
+          "text": "เป็นช่างที่วาดรูปเก่งมาก สุดยอดฝีมือคนหนึ่ง เป็นคนรูปหล่อเจ้าสําอางคุย",
+          "mode": "narration"
+        },
+        {
+          "id": "p43-b6",
+          "pdfLine": "11",
+          "pdfLines": [
+            11
+          ],
+          "piece": 6,
+          "text": "แต่เรื่องจีบสาว",
+          "mode": "narration"
+        },
+        {
+          "id": "p43-b7",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "\"ไอ้ตี๋เอาเงินมายืมพี่ 300 บาท เดี๋ยวเงินเดือนออกจะคืนให้ \"",
+          "mode": "speech"
+        },
+        {
+          "id": "p43-b8",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 8,
+          "text": "แต่พอเงินเดือนออกก็ไม่มาคืน แถมยังจะมายืมเงินอีก 200 บาท",
+          "mode": "narration"
+        },
+        {
+          "id": "p43-b9",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 9,
+          "text": "ผมก็ไม่ให้ยืมเขาบอกไม่ให้ยืมก็ไม่ต้องมาดูพี่เขียน",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-043.png"
+    },
+    {
+      "pageNumber": 44,
+      "chapter": {
+        "id": "chapter-11",
+        "index": 10,
+        "title": "การฝึกงานในมหาลัยชีวิต",
+        "startPage": 43,
+        "endPage": 46
+      },
+      "lines": [
+        {
+          "id": "p44-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "\"ครูที่ดีที่สุดคือตัวของเราเอง\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p44-b2",
+          "pdfLine": "1-4",
+          "pdfLines": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "คตินี้ทําให้เกิดความเชื่อมั่นในตัวเอง ที่จะฟันฝ่าอุปสรรคข้างหน้าทั้งหลายให้ลุล่วงไป",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "(น่าจะเป็นคติที่เหมาะสําหรับคนไม่ได้เรียนหนังสือ และต้องต่อสู้ตามลําพังเท่านั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "ห้ามใช้กับผู้ที่อยู่ในสถาบันการศึกษาเด็ดขาด)",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b5",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 5,
+          "text": "หลังจากผ่านไป 3 เดือน งานที่ง่ายๆ ก็พอจะทําได้ ที่ร้านให้ค่าโอทีคืนละ",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b6",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 6,
+          "text": "10 บาท ผ่านไปปีที่ 2, 3, 4 และ 5 ผมยังคงทําโอทีตลอด และหลังโอที",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b7",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 7,
+          "text": "22:00 น ผมก็ขนงานกลับบ้านเพื่อทําต่อถึงตี 2 ตี 3 ทุกคืน....",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b8",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 8,
+          "text": "ทุกเช้าก็จะเอางานที่เสร็จไปส่งเถ้าแก่ เขาก็จะดีใจมากที่งานเสร็จจํานวนมาก",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b9",
+          "pdfLine": "16-18",
+          "pdfLines": [
+            16,
+            17,
+            18
+          ],
+          "piece": 9,
+          "text": "ผ่านมา 5 ปี OT ก็ยังคงคืนละ 10 บาทแต่เรื่องเงินไม่ใช่เป้าหมายสําคัญของ",
+          "mode": "narration"
+        },
+        {
+          "id": "p44-b10",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 10,
+          "text": "ผมเลย เป้าหมายคือ เราต้อง",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-044.png"
+    },
+    {
+      "pageNumber": 45,
+      "chapter": {
+        "id": "chapter-11",
+        "index": 10,
+        "title": "การฝึกงานในมหาลัยชีวิต",
+        "startPage": 43,
+        "endPage": 46
+      },
+      "lines": [
+        {
+          "id": "p45-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "เป็นคนเก่ง เป็นช่างเขียนที่ชํานาญงาน ความคิดผมตอนนั้นผมยังอยู่ในมหาลัยชีวิต",
+          "mode": "narration"
+        },
+        {
+          "id": "p45-b2",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 2,
+          "text": "ซึ่งกําลังแข่งขันกับเพื่อนที่อยู่ในมหาวิทยาลัยจริงๆ เราจะแพ้เขาไม่ได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p45-b3",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 3,
+          "text": "เมื่อเขาเรียนจบเราต้องเก่งไม่แพ้เขาหรือเก่งกว่าเขา",
+          "mode": "narration"
+        },
+        {
+          "id": "p45-b4",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 4,
+          "text": "ณ ตอนนั้นปีที่ 5 ของการฝึกงานเพื่อนๆที่เรียนหนังสือคงจะจบม.ศ 5 กัน",
+          "mode": "narration"
+        },
+        {
+          "id": "p45-b5",
+          "pdfLine": "11-13",
+          "pdfLines": [
+            11,
+            12,
+            13
+          ],
+          "piece": 5,
+          "text": "แล้ว เตรียมเข้ามหาวิทยาลัย ลืมบอกไปเงินเดือนตอนนั้น 1,100 บาท ตอนนั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p45-b6",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 6,
+          "text": "ผมฝีมือกล้าแกร่งมาก ทํางานเสร็จไว รู้จักใช้อุปกรณ์ทุ่นแรงต่างๆ",
+          "mode": "narration"
+        },
+        {
+          "id": "p45-b7",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 7,
+          "text": "เป็นกําลังสําคัญของร้าน ถ้าร้านขาดผมที่ร้าน",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-045.png"
+    },
+    {
+      "pageNumber": 46,
+      "chapter": {
+        "id": "chapter-11",
+        "index": 10,
+        "title": "การฝึกงานในมหาลัยชีวิต",
+        "startPage": 43,
+        "endPage": 46
+      },
+      "lines": [
+        {
+          "id": "p46-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "ก็จะขาดกําลังสําคัญไป แต่เรื่องจริงสําหรับผมก็คือตราบใดที่ผมอยู่ที่ร้านนี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p46-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "ผมจะไม่ได้เป็นนายช่างยังคงเป็น",
+          "mode": "narration"
+        },
+        {
+          "id": "p46-b3",
+          "pdfLine": "4",
+          "pdfLines": [
+            4
+          ],
+          "piece": 3,
+          "text": "\"ไอ้ตี๋\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p46-b4",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "ที่เป็นเด็กฝึกงาน ที่ต้องอยู่ทดแทนบุญคุณเขาไป ที่ให้เราอยู่ฝึกงาน",
+          "mode": "narration"
+        },
+        {
+          "id": "p46-b5",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "ดูได้จาก ตอนนั้นช่างใหม่มาทํางาน ตอนนั้นมีรับช่างใหม่ เงินเดือนสตาร์ท",
+          "mode": "narration"
+        },
+        {
+          "id": "p46-b6",
+          "pdfLine": "8-11",
+          "pdfLines": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "piece": 6,
+          "text": "3,000 บาทบวก คําถามในใจผมมากมายในตอนนั้น ถึงความแตกต่างกันอย่างมาก และที่สําคัญ...",
+          "mode": "narration"
+        },
+        {
+          "id": "p46-b7",
+          "pdfLine": "11-13",
+          "pdfLines": [
+            11,
+            12,
+            13
+          ],
+          "piece": 7,
+          "text": "โลกภายนอกอันแสนกว้างใหญ่ จิตใจผม อยากจะโบยบินไปสู่โลกกว้าง",
+          "mode": "narration"
+        },
+        {
+          "id": "p46-b8",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 8,
+          "text": "เพื่อจะได้พิสูจน์ตัวเอง และหาประสบการณ์ใหม่ๆให้กับชีวิต",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-046.png"
+    },
+    {
+      "pageNumber": 47,
+      "chapter": {
+        "id": "chapter-12",
+        "index": 11,
+        "title": "รถไฟสายแห่งโอกาส",
+        "startPage": 47,
+        "endPage": 50
+      },
+      "lines": [
+        {
+          "id": "p47-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ในที่สุด....",
+          "mode": "narration"
+        },
+        {
+          "id": "p47-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "\"รถไฟสายแห่ง",
+          "mode": "speech"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-6735dabb57c4523e",
+          "src": "/suoi-tee-content/assets/images/image-6735dabb57c4523e.jpeg",
+          "width": 704,
+          "height": 894,
+          "bbox": [
+            26.6667,
+            61.6672,
+            573.3326,
+            755.8708
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-047.png"
+    },
+    {
+      "pageNumber": 48,
+      "chapter": {
+        "id": "chapter-12",
+        "index": 11,
+        "title": "รถไฟสายแห่งโอกาส",
+        "startPage": 47,
+        "endPage": 50
+      },
+      "lines": [
+        {
+          "id": "p48-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "โอกาส\"...",
+          "mode": "speech"
+        },
+        {
+          "id": "p48-b2",
+          "pdfLine": "1-4",
+          "pdfLines": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "ก็ได้มาจอดต่อหน้าเพื่อรับคนที่พร้อมเท่านั้นรออะไรล่ะกระโดดขึ้นทันทีการต่อสู้ก้",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b3",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "าวต่อไปได้เริ่มต้นแล้วสู้สู้และสู้.....",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b4",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 4,
+          "text": "ถึงจะรู้ว่าที่ร้านขาดผมไม่ได้ และเหตุผลที่เป็นสาเหตุหลักอีกอย่างหนึ่ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b5",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 5,
+          "text": "ที่ต้องลาออกคือ ช่วงก่อนหน้านั้น เริ่มมีคนเอางานให้ทําเป็นการส่วนตัว",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b6",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 6,
+          "text": "ส่วนมากจะเป็นร้านทําบล็อก มาให้เขียนแบบมีสารพัดงานเขียน เช่นนามบัตร",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b7",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 7,
+          "text": "ใบละ 15 บาท ตรายาง 10-30 บาทและอื่นๆที่เป็นงานพิมพ์ทุกอย่าง",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b8",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 8,
+          "text": "เวลาเลิกงานก็ต้องรีบกลับบ้านเพื่อไปเขียนแบบงานส่วนตัว ทําถึงดึกๆทุกคืน",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b9",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 9,
+          "text": "นอนวันละ 2 ชั่วโมง บางวันก็ทําถึงสว่าง ไม่ต้องนอนก็หลายครั้ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p48-b10",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "ตอนเช้าต้องรีบนั่งสามล้อไปทํางาน จนร่างกายไม่",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-048.png"
+    },
+    {
+      "pageNumber": 49,
+      "chapter": {
+        "id": "chapter-12",
+        "index": 11,
+        "title": "รถไฟสายแห่งโอกาส",
+        "startPage": 47,
+        "endPage": 50
+      },
+      "lines": [
+        {
+          "id": "p49-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "ได้พักผ่อน บางวันทํางานกลางวันของทางร้าน แทบไม่ได้งานเลย",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b2",
+          "pdfLine": "2-4",
+          "pdfLines": [
+            2,
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "เพราะง่วงนอนมากเงินเดือนตอนนั้น 1,100 บาท แต่งานที่ทําพิเศษส่วนตัว",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b3",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "ทําเฉพาะกลางคืนเดือนละ เกิน 3,000 บาท รวมเงินเดือนเท่ากับ 4-5,000",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "บาท ความคิดตอนนั้น ว่า ถ้าเราลาออกแล้วทํางานของตัวเองเต็มวัน",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b5",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 5,
+          "text": "ก็จะได้ร่วม 10,000 บาทแน่นอน ทําให้ตัดสินใจไม่ยากในการลาออก",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b6",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "และนี่ก็เป็นความภาคภูมิใจว่า ตลอด 5 ปี ที่ทํางานด้วยความมุ่งมั่น",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b7",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 7,
+          "text": "นั่งหลังขดหลังแข็ง อดหลับอดนอน จากต้นทุนที่เป็นศูนย์ติดลบ",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b8",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 8,
+          "text": "ไม่มีเวทมนต์คาถาใดๆ มีแต่ความขยันตลอด 5 ปีที่ผ่านไป เพื่อนๆที่เรียนหนังสือ",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b9",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 9,
+          "text": "ก็คงเริ่มเข้ามหาวิทยาลัย แต่เราหาเงินได้แล้วบรรลุเป้าหมายแรก",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b10",
+          "pdfLine": "15-17",
+          "pdfLines": [
+            15,
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "ที่ว่าเราต้องไม่แพ้เพื่อนที่เขาได้เรียน แต่ก็ต้องแลกกับความถูกโดดเดี่ยวตามลํา",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b11",
+          "pdfLine": "17-18",
+          "pdfLines": [
+            17,
+            18
+          ],
+          "piece": 11,
+          "text": "พังไม่มีกลุ่มเพื่อนคุย ไม่มีไปเที่ยวกับเพื่อน ขาดสังคม แต่",
+          "mode": "narration"
+        },
+        {
+          "id": "p49-b12",
+          "pdfLine": "18-19",
+          "pdfLines": [
+            18,
+            19
+          ],
+          "piece": 12,
+          "text": "ถ้าชีวิตที่มีเป้าหมาย ย่อมไม่มีความโดดเดี่ยวแน่นอน....",
+          "mode": "emphasis"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-049.png"
+    },
+    {
+      "pageNumber": 50,
+      "chapter": {
+        "id": "chapter-12",
+        "index": 11,
+        "title": "รถไฟสายแห่งโอกาส",
+        "startPage": 47,
+        "endPage": 50
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-79b5bd4523829edf",
+          "src": "/suoi-tee-content/assets/images/image-79b5bd4523829edf.png",
+          "width": 1066,
+          "height": 1475,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3334,
+            773.0775
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-050.png"
+    },
+    {
+      "pageNumber": 51,
+      "chapter": {
+        "id": "chapter-13",
+        "index": 12,
+        "title": "ทิ้งอดีตห้าปีไว้ข้างหลัง",
+        "startPage": 51,
+        "endPage": 51
+      },
+      "lines": [
+        {
+          "id": "p51-b1",
+          "pdfLine": "1-4",
+          "pdfLines": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "piece": 1,
+          "text": "ขอทิ้งอดีต5ปีที่ฝึกงานไว้ข้างหลังมุ่งหน้าไปสู่ความฝันอันบรรเจิดจ้าที่รออยู่ข้างหน้า...",
+          "mode": "narration"
+        },
+        {
+          "id": "p51-b2",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 2,
+          "text": "ผมตัดสินใจเดินไปบอกเถ้าแก่ด้วยความมั่นใจว่าสิ้นเดือนนี้จะขอลาออก",
+          "mode": "narration"
+        },
+        {
+          "id": "p51-b3",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 3,
+          "text": "เขาอึ้งไปพักแล้วบอกว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p51-b4",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 4,
+          "text": "\"อาตี๋...ลื้อจะออกได้อย่างไร ลื้อฝึกงานที่นี่ก็ต้องทําที่นี่\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p51-b5",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 5,
+          "text": "ผมเดินออกมาในใจก็คิดว่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p51-b6",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 6,
+          "text": "\"หมดยุคทาสแล้ว เราเพิ่งอายุ 21 ปี อนาคตเรายังต้องแสวงหาอะไรๆอีกเยอะ",
+          "mode": "speech"
+        },
+        {
+          "id": "p51-b7",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 7,
+          "text": "เราต้องรับผิดชอบชีวิตของเราเองข้างหน้ายังมีอะไรให้เราค้นหาอีกมากมาย\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p51-b8",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 8,
+          "text": "จากวันที่ลาออก ก็ไม่เคย กลับมาที่นี่อีกเลยแม้แต่ครั้งเดียว",
+          "mode": "narration"
+        },
+        {
+          "id": "p51-b9",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 9,
+          "text": "แต่ก็ยังเก็บความผูกพัน เรื่องราวต่างๆ ทั้งบวกและลบ",
+          "mode": "narration"
+        },
+        {
+          "id": "p51-b10",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "ล้วนเป็นประสบการณ์ชีวิตที่ลํ้าค่า ที่ต้องเก็บไว้ในความทรงจําตลอดไป....",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-051.png"
+    },
+    {
+      "pageNumber": 52,
+      "chapter": {
+        "id": "chapter-14",
+        "index": 13,
+        "title": "มองย้อนกลับไปที่ครอบครัว",
+        "startPage": 52,
+        "endPage": 55
+      },
+      "lines": [
+        {
+          "id": "p52-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "จากเรื่องเล่า(Story)นี้",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-12ba74c4cd3491b0",
+          "src": "/suoi-tee-content/assets/images/image-12ba74c4cd3491b0.png",
+          "width": 800,
+          "height": 954,
+          "bbox": [
+            26.6667,
+            54.9172,
+            573.3334,
+            706.8173
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-052.png"
+    },
+    {
+      "pageNumber": 53,
+      "chapter": {
+        "id": "chapter-14",
+        "index": 13,
+        "title": "มองย้อนกลับไปที่ครอบครัว",
+        "startPage": 52,
+        "endPage": 55
+      },
+      "lines": [
+        {
+          "id": "p53-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "ทําให้เข้าใจพ่อแม่และคนในครอบครัวอะไรบ้าง??",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "(อาเจ็ก) ที่เป็นห่วงอนาคตของลูกทั้ง1พ่อ 11 คน อยากให้ลูกชาย",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "แต่ละคนได้มีงานที่ดี ตั้งเนื้อตั้งตัวได้ หากได้เป็นเจ้าของกิจการได้ ก็จะยิ่งดีมาก",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b4",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 4,
+          "text": "(อาอี๊) ที่เป็นแบบอย่างที่ดีของลูกๆทุก2แม่คน เป็นแม่ที่สุดยอดที่สุดในทุกๆเรื่อง",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b5",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 5,
+          "text": "เป็นคู่คิดเคียงข้างพ่อเสมอในเรื่องธุรกิจ และเป็นผู้ที่มีความกตัญ",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b6",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 6,
+          "text": "ูเป็นเลิศ ที่คอยส่งเงิน จดหมายไปให้อาม่าพ่อ และอาม่าแม่เป็นประจํา",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b7",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 7,
+          "text": "อาอี๊จะสอนลูกๆให้รู้จักประหยัด อดออม ขยันขันแข็ง มีเมตตากรุณากับผู้คน",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b8",
+          "pdfLine": "14",
+          "pdfLines": [
+            14
+          ],
+          "piece": 8,
+          "text": "มีทัศนคติที่ดี...",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b9",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 9,
+          "text": "เหล่านี้คือสิ่งที่ผมและลูกๆทุกคนได้จากอาอี้มาเต็มๆ",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b10",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 10,
+          "text": "ช่วงที่3พี่น้องทั้ง11คนพ่อแม่",
+          "mode": "narration"
+        },
+        {
+          "id": "p53-b11",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 11,
+          "text": "ครอบครัวประสบภาวะการเงิน ทุกคนได้ช่วยกัน",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-053.png"
+    },
+    {
+      "pageNumber": 54,
+      "chapter": {
+        "id": "chapter-14",
+        "index": 13,
+        "title": "มองย้อนกลับไปที่ครอบครัว",
+        "startPage": 52,
+        "endPage": 55
+      },
+      "lines": [
+        {
+          "id": "p54-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ทํางานทุกอย่าง จนผ่านพ้นเหตุการณ์นี้ไปด้วยดี",
+          "mode": "narration"
+        },
+        {
+          "id": "p54-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "ทําให้ได้รู้ว่า \"พลังสามัคคีสําคัญมากใน",
+          "mode": "speech"
+        },
+        {
+          "id": "p54-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "ยามวิกฤต\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p54-b4",
+          "pdfLine": "9",
+          "pdfLines": [
+            9
+          ],
+          "piece": 4,
+          "text": "เกรดเล็กๆน้อยๆที่อยากจะ",
+          "mode": "narration"
+        },
+        {
+          "id": "p54-b5",
+          "pdfLine": "10",
+          "pdfLines": [
+            10
+          ],
+          "piece": 5,
+          "text": "เล่าให้ฟังระหว่างผมกับพ่อช่วง",
+          "mode": "narration"
+        },
+        {
+          "id": "p54-b6",
+          "pdfLine": "11",
+          "pdfLines": [
+            11
+          ],
+          "piece": 6,
+          "text": "ที่ผมฝึกงานที่ร้านอาปอเจ็ก",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-f52a754591c4fd13",
+          "src": "/suoi-tee-content/assets/images/image-f52a754591c4fd13.png",
+          "width": 1136,
+          "height": 942,
+          "bbox": [
+            26.6667,
+            153.9171,
+            573.3334,
+            607.227
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-054.png"
+    },
+    {
+      "pageNumber": 55,
+      "chapter": {
+        "id": "chapter-14",
+        "index": 13,
+        "title": "มองย้อนกลับไปที่ครอบครัว",
+        "startPage": 52,
+        "endPage": 55
+      },
+      "lines": [
+        {
+          "id": "p55-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "*ตลอดฝึกงาน 5 ปี ผมไม่เคยคุยเรื่องราวการ",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "ฝึกงานกับพ่อเลย แม้แต่ครั้งเดียว (น่าจะคนละ",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "Generation อายุผมกับพ่อห่างกัน 36 ปี)",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b4",
+          "pdfLine": "5",
+          "pdfLines": [
+            5
+          ],
+          "piece": 4,
+          "text": "*ตลอดฝึกงาน 5 ปี พ่อไม่เคยแนะนําผมเรื่อง",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b5",
+          "pdfLine": "6",
+          "pdfLines": [
+            6
+          ],
+          "piece": 5,
+          "text": "การมาฝึกงานเลย แม้แต่ครั้งเดียว (พ่อกับอาปอ",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b6",
+          "pdfLine": "7",
+          "pdfLines": [
+            7
+          ],
+          "piece": 6,
+          "text": "เจ็กเป็นเพื่อนสนิทกันมาก)",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b7",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 7,
+          "text": "*หลังจากผมออกจากงานมาแล้ว พ่อกับอาปอเจ็กก็ยังเป็นเพื่อนที่สนิทสนมกันเหมือนเดิม",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b8",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "พ่อเล่าว่ามีไปคุยกับอาปอเจ็กว่า การที่ผมลาออก เป็นความคิดของผมเอง",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b9",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 9,
+          "text": "พ่อไม่เคยไปบอกหรือแนะนําอะไรทั้งนั้น พ่อไม่สามารถไปห้ามเด็กที่มีไฟทะเยอทะยานได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b10",
+          "pdfLine": "14-16",
+          "pdfLines": [
+            14,
+            15,
+            16
+          ],
+          "piece": 10,
+          "text": "(อาปอเจ็กย่อมเข้าใจในสิ่งนี้ดี เพราะเป็นกับทุกคนที่เสื่อผืนหมอนใบมาจากเมืองจีน",
+          "mode": "narration"
+        },
+        {
+          "id": "p55-b11",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 11,
+          "text": "ความสัมพันธ์ทั้ง 2 คน แน่นแฟ้นกว่าเดิม)",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-055.png"
+    },
+    {
+      "pageNumber": 56,
+      "chapter": {
+        "id": "chapter-15",
+        "index": 14,
+        "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+        "startPage": 56,
+        "endPage": 62
+      },
+      "lines": [
+        {
+          "id": "p56-b1",
+          "pdfLine": "1-2",
+          "pdfLines": [
+            1,
+            2
+          ],
+          "piece": 1,
+          "text": "จากเรื่องเล่า(story) นี้...",
+          "mode": "narration"
+        },
+        {
+          "id": "p56-b2",
+          "pdfLine": "2-4",
+          "pdfLines": [
+            2,
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "ณตอนนั้นผมได้ค้นพบตัวตนและได้หลักคิดอะไรบ้าง??",
+          "mode": "narration"
+        },
+        {
+          "id": "p56-b3",
+          "pdfLine": "6",
+          "pdfLines": [
+            6
+          ],
+          "piece": 3,
+          "text": "1 อาเจ็กได้วางแผนชีวิตให้ผม",
+          "mode": "emphasis"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-19c27080a5b82ddd",
+          "src": "/suoi-tee-content/assets/images/image-19c27080a5b82ddd.png",
+          "width": 1243,
+          "height": 864,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3316,
+            396.6499
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-056.png"
+    },
+    {
+      "pageNumber": 57,
+      "chapter": {
+        "id": "chapter-15",
+        "index": 14,
+        "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+        "startPage": 56,
+        "endPage": 62
+      },
+      "lines": [
+        {
+          "id": "p57-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "แล้ว โดยที่ผมไม่ต้องเสียเวลาชีวิตในการหาตัวตน ซึ่งอาเจ็กก็มองค่อนข้างจะไม่ผิด",
+          "mode": "narration"
+        },
+        {
+          "id": "p57-b2",
+          "pdfLine": "3-4",
+          "pdfLines": [
+            3,
+            4
+          ],
+          "piece": 2,
+          "text": "และงานช่างเขียนนี้ เทียบปัจจุบันก็คืองาน Graphic Design",
+          "mode": "narration"
+        },
+        {
+          "id": "p57-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "และเป็นบันไดขั้นแรก ที่ทําให้ผมก้าวไปสู่กิจการอื่นๆที่ตามมาภายหลัง",
+          "mode": "narration"
+        },
+        {
+          "id": "p57-b4",
+          "pdfLine": "8-10",
+          "pdfLines": [
+            8,
+            9,
+            10
+          ],
+          "piece": 4,
+          "text": "2 ถึงการไม่ได้เรียนต่อในขณะนั้น เป็นภาวะจํายอมของวิกฤตฐานะการเงินของครอบครัว",
+          "mode": "narration"
+        },
+        {
+          "id": "p57-b5",
+          "pdfLine": "10-12",
+          "pdfLines": [
+            10,
+            11,
+            12
+          ],
+          "piece": 5,
+          "text": "แต่เมื่อผมตั้งสติได้ การไม่ได้เรียนก็ไม่ใช่ปัญหาในการสู้ชีวิตแม้",
+          "mode": "narration"
+        },
+        {
+          "id": "p57-b6",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 6,
+          "text": "แต่น้อย และผมก็ยังได้สัญญากับตัวเองว่า จะไม่ใช้ชีวิตผิดพลาด",
+          "mode": "narration"
+        },
+        {
+          "id": "p57-b7",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 7,
+          "text": "จนเกิดเหตุการณ์เช่นนี้กับตัวเองในอนาคตเด็ดขาด",
+          "mode": "narration"
+        },
+        {
+          "id": "p57-b8",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 8,
+          "text": "\"คนที่จะประสบความสําเร็จได้อยู่ที่วินัยและหลัก",
+          "mode": "speech"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-057.png"
+    },
+    {
+      "pageNumber": 58,
+      "chapter": {
+        "id": "chapter-15",
+        "index": 14,
+        "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+        "startPage": 56,
+        "endPage": 62
+      },
+      "lines": [
+        {
+          "id": "p58-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "คิด\" หากเรียนจบมาก็ต้องมีหลักการนี้",
+          "mode": "speech"
+        },
+        {
+          "id": "p58-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "ในการใช้ชีวิตอยู่ดี...",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p58-b3",
+          "pdfLine": "4-6",
+          "pdfLines": [
+            4,
+            5,
+            6
+          ],
+          "piece": 3,
+          "text": "3 เมื่อถึงปีที่ 5 ของการฝึกงานเหมือนการก้าวผ่านมหาลัยชีวิตที่เข้มข้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p58-b4",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "ไฟในตัวมันรุ่มร้อนไม่สามารถอยู่กับอะไรเดิมๆได้ ความคิดตอนนั้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p58-b5",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 5,
+          "text": "เราต้องไปเผชิญโชคในโลกกว้าง และต้องรีบไปเดี๋ยวนี้",
+          "mode": "narration"
+        },
+        {
+          "id": "p58-b6",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 6,
+          "text": "\"การเปลี่ยนแปลงย่อมเกิดสิ่งที่ดีให้กับชีวิตแน่นอน\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p58-b7",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 7,
+          "text": "4 ในมหาลัยชีวิตเป็นการเรียนรู้ที่ไม่มีวันจบ ต้องเรียนรู้ตลอดชีวิต",
+          "mode": "narration"
+        },
+        {
+          "id": "p58-b8",
+          "pdfLine": "13-15",
+          "pdfLines": [
+            13,
+            14,
+            15
+          ],
+          "piece": 8,
+          "text": "ช่วงที่ฝึกงาน 5 ปีทุกวันอาทิตย์ จะไปหาจะไปห้างเซ็นทรัลสีลม",
+          "mode": "narration"
+        },
+        {
+          "id": "p58-b9",
+          "pdfLine": "15-16",
+          "pdfLines": [
+            15,
+            16
+          ],
+          "piece": 9,
+          "text": "(เปล่าเลยไม่ได้ไปดูเครื่องเสียง) เพื่อศึกษาหนังสือออกแบบต่างประเทศ",
+          "mode": "narration"
+        },
+        {
+          "id": "p58-b10",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 10,
+          "text": "ดู และบันทึกหลักคิดต่างๆในการออกแบบ เข้าไปเก็บ",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-058.png"
+    },
+    {
+      "pageNumber": 59,
+      "chapter": {
+        "id": "chapter-15",
+        "index": 14,
+        "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+        "startPage": 56,
+        "endPage": 62
+      },
+      "lines": [
+        {
+          "id": "p59-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ไว้ในสมอง ไม่มีปัญญาซื้อ หนังสือแพงมาก",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "สามารถอยู่ได้หลายๆชั่วโมงไม่เบื่อเลย...",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b3",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 3,
+          "text": "5 ความวิริยะอุตสาหะทําซํ้าๆ เป็นเดือนเป็นปีและหลายปี เรียนรู้ตลอด",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b4",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 4,
+          "text": "5 ปี ทั้งการออกแบบ และหลักคิดทําให้ประสบความสําเร็จในชีวิต",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b5",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "ความลําบากในวันนั้นถึงมีวันนี้ได้...",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b6",
+          "pdfLine": "10-11",
+          "pdfLines": [
+            10,
+            11
+          ],
+          "piece": 6,
+          "text": "6 คาถาที่ท่องทุกวันตลอด 5 ปีที่ฝึกงานคือ",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b7",
+          "pdfLine": "11",
+          "pdfLines": [
+            11
+          ],
+          "piece": 7,
+          "text": "\"วันนี้ต้องเก่งกว่าเมื่อวาน\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p59-b8",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "\"เราต้องไม่แพ้เพื่อนที่ได้เรียนหนังสือ\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p59-b9",
+          "pdfLine": "12-13",
+          "pdfLines": [
+            12,
+            13
+          ],
+          "piece": 9,
+          "text": "\"เราจะต้องไม่ลําบากตอนแก่\"",
+          "mode": "speech"
+        },
+        {
+          "id": "p59-b10",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 10,
+          "text": "(ตอนนั้นแค่คิดถึงตอนอายุ 40 ก็แก่มากแล้ว)",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b11",
+          "pdfLine": "16-17",
+          "pdfLines": [
+            16,
+            17
+          ],
+          "piece": 11,
+          "text": "7 การประสบความสําเร็จในการศึกษา ยังต้องมาค้นหาตัวตนของตนเอง",
+          "mode": "narration"
+        },
+        {
+          "id": "p59-b12",
+          "pdfLine": "17-19",
+          "pdfLines": [
+            17,
+            18,
+            19
+          ],
+          "piece": 12,
+          "text": "ซึ่งยากกว่าการเรียนมากการประสบความสําเร็จในการทํางาน ก็",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-059.png"
+    },
+    {
+      "pageNumber": 60,
+      "chapter": {
+        "id": "chapter-15",
+        "index": 14,
+        "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+        "startPage": 56,
+        "endPage": 62
+      },
+      "lines": [
+        {
+          "id": "p60-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "คือผู้ที่หาตัวตนและพบเส้นทางชีวิตแล้ว",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p60-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "แต่ไม่ว่าจะประสบความสําเร็จแบบไหนมันก็",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "คือความภาคภูมิใจของพ่อแม่แน่นอน",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b4",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 4,
+          "text": "8 อุปสรรคต่างๆที่เข้ามาในชีวิต ยอมหล่อหลอมชีวิตให้เข้มแข็ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b5",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 5,
+          "text": "สร้างหลักคิดในการดํารงชีวิตทั้งนี้ต้องมีทัศนคติที่ดีด้วย",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b6",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 6,
+          "text": "หรือเปิดใจให้กว้างถ้าทัศนคติไปทางลบ เราจะไม่ได้อะไรจากสิ่งต่างๆเลย",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b7",
+          "pdfLine": "11",
+          "pdfLines": [
+            11
+          ],
+          "piece": 7,
+          "text": "9 วินัย..",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b8",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 8,
+          "text": "คือพลังขับเคลื่อนความฝัน...",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p60-b9",
+          "pdfLine": "12-15",
+          "pdfLines": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "piece": 9,
+          "text": "คือเป้าหมายเมื่อ 2 สิ่งนี้ถูกขับเคลื่อนไปพร้อมกันผลลัพธ์ก็คือความสําเร็จ",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b10",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 10,
+          "text": "10 ปัญหาและอุปสรรคต่างๆ เมื่อฟันฝ่า",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b11",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 11,
+          "text": "สําเร็จมันก็คือความเข้มแข็งและความ",
+          "mode": "narration"
+        },
+        {
+          "id": "p60-b12",
+          "pdfLine": "19",
+          "pdfLines": [
+            19
+          ],
+          "piece": 12,
+          "text": "ภาคภูมิใจ เพื่อสู้กับปัญหาอื่นต่อๆไปไม่มี",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-060.png"
+    },
+    {
+      "pageNumber": 61,
+      "chapter": {
+        "id": "chapter-15",
+        "index": 14,
+        "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+        "startPage": 56,
+        "endPage": 62
+      },
+      "lines": [
+        {
+          "id": "p61-b1",
+          "pdfLine": "1-3",
+          "pdfLines": [
+            1,
+            2,
+            3
+          ],
+          "piece": 1,
+          "text": "วันจบความสุขสบายชั่วคราว หากลุ่มหลงกับมันสามารถทําให้เราเสียใจ",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b2",
+          "pdfLine": "3-5",
+          "pdfLines": [
+            3,
+            4,
+            5
+          ],
+          "piece": 2,
+          "text": "เมื่อกาลเวลาผ่านไปแล้ว เมื่อรู้ตัวอีกทีเราก็แก่เฒ่าไปแล้ว จะย้อนเวลาแก้ไข",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b3",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 3,
+          "text": "ก็ยังไม่มี Time Machine ที่จะย้อนไปแก้ไขได้ชีวิตที่สุขสบายผ่านไปวันๆ",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b4",
+          "pdfLine": "7-9",
+          "pdfLines": [
+            7,
+            8,
+            9
+          ],
+          "piece": 4,
+          "text": "ย่อมมีย่อมเป็นชีวิตที่ไม่มีรสชาติ และจะไม่มี ประสบการณ์ความหลังให้จดจําเลย",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b5",
+          "pdfLine": "9-10",
+          "pdfLines": [
+            9,
+            10
+          ],
+          "piece": 5,
+          "text": "เพราะทุกวันทุกปี ก็ทําอะไรซํ้าๆเหมือนเดิม",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b6",
+          "pdfLine": "12",
+          "pdfLines": [
+            12
+          ],
+          "piece": 6,
+          "text": "11 วิธีดูคนประสบความสําเร็จ",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b7",
+          "pdfLine": "13",
+          "pdfLines": [
+            13
+          ],
+          "piece": 7,
+          "text": "รอแต่เวลาเลิกงาน = ทํางานตามหน้าที่",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b8",
+          "pdfLine": "14",
+          "pdfLines": [
+            14
+          ],
+          "piece": 8,
+          "text": "ไม่มีเวลาเลิกงาน = ทํางานมีเป้าหมาย",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b9",
+          "pdfLine": "16",
+          "pdfLines": [
+            16
+          ],
+          "piece": 9,
+          "text": "12 การศึกษาหาความรู้ในวิชาชีพที่",
+          "mode": "narration"
+        },
+        {
+          "id": "p61-b10",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 10,
+          "text": "ทําอยู่ตลอดเวลา ย่อมทําให้ชีวิตการ",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p61-b11",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 11,
+          "text": "งานเจริญก้าวหน้ายิ่งๆขึ้นไป",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-061.png"
+    },
+    {
+      "pageNumber": 62,
+      "chapter": {
+        "id": "chapter-15",
+        "index": 14,
+        "title": "สิ่งที่ค้นพบจากเรื่องเล่า",
+        "startPage": 56,
+        "endPage": 62
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-68749bd583d530e7",
+          "src": "/suoi-tee-content/assets/images/image-68749bd583d530e7.png",
+          "width": 864,
+          "height": 1243,
+          "bbox": [
+            26.6667,
+            16.6672,
+            573.3334,
+            803.1332
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-062.png"
+    },
+    {
+      "pageNumber": 63,
+      "chapter": {
+        "id": "chapter-16",
+        "index": 15,
+        "title": "หลักสูตรมหาลัยชีวิต",
+        "startPage": 63,
+        "endPage": 69
+      },
+      "lines": [
+        {
+          "id": "p63-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "หลักสูตรมหาลัยชีวิตบางส่วนที่",
+          "mode": "emphasis"
+        },
+        {
+          "id": "p63-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "ได้เรียนรู้ตลอดการฝึกงาน5ปี",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b3",
+          "pdfLine": "3",
+          "pdfLines": [
+            3
+          ],
+          "piece": 3,
+          "text": "(ถ้ามีต้นทุนเป็น 0 จะเหมาะกับหลักสูตรนี้มาก)",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b4",
+          "pdfLine": "5",
+          "pdfLines": [
+            5
+          ],
+          "piece": 4,
+          "text": "บทเรียนที่ 1...",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b5",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 5,
+          "text": "ความสําเร็จ อยู่ในทุกคนที่พร้อม จะสละซึ่งเวลา / หยาดเหงื่อ /",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b6",
+          "pdfLine": "6-8",
+          "pdfLines": [
+            6,
+            7,
+            8
+          ],
+          "piece": 6,
+          "text": "ความทุ่มเท /ความอดทน / ยอมสละเวลาในระยะสั้นเพื่อแลกกับความมั่นคง",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b7",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 7,
+          "text": "และความภาคภูมิใจในระยะยาว",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b8",
+          "pdfLine": "11",
+          "pdfLines": [
+            11
+          ],
+          "piece": 8,
+          "text": "บทเรียนที่ 2...",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b9",
+          "pdfLine": "11-12",
+          "pdfLines": [
+            11,
+            12
+          ],
+          "piece": 9,
+          "text": "ไม่มีเวทมนต์วิเศษใดๆ ไม่มีใครที่โชคดี ไม่มีเส้นทางที่โปรยด้วยดอกกุหลาบ",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b10",
+          "pdfLine": "12-14",
+          "pdfLines": [
+            12,
+            13,
+            14
+          ],
+          "piece": 10,
+          "text": "มีแต่เส้นทางที่เต็มไปด้วยขวากหนาม โคลนตม คราบนํ้าตา และคํ่าคืนอันยาวนาน",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b11",
+          "pdfLine": "14-15",
+          "pdfLines": [
+            14,
+            15
+          ],
+          "piece": 11,
+          "text": "ที่ต้องทํางานอย่างหนัก และสุขภาพที่เราควบคุมไม่ได้",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b12",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 12,
+          "text": "บทเรียนที่ 3...",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b13",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 13,
+          "text": "ความลําบากในวันนี้ คืออิสรภาพ",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b14",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 14,
+          "text": "และความสุขในวันหน้า",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b15",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 15,
+          "text": "บทเรียนที่ 4...",
+          "mode": "narration"
+        },
+        {
+          "id": "p63-b16",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 16,
+          "text": "ชีวิตมีแต่ งาน งาน งาน กับการ",
+          "mode": "emphasis"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-063.png"
+    },
+    {
+      "pageNumber": 64,
+      "chapter": {
+        "id": "chapter-16",
+        "index": 15,
+        "title": "หลักสูตรมหาลัยชีวิต",
+        "startPage": 63,
+        "endPage": 69
+      },
+      "lines": [
+        {
+          "id": "p64-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "อดออม ไม่เสียเวลากับการท่องเที่ยว และงาน",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b2",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 2,
+          "text": "สังสรรค์ใดๆทั้งสิ้น",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b3",
+          "pdfLine": "4",
+          "pdfLines": [
+            4
+          ],
+          "piece": 3,
+          "text": "บทเรียนที่ 5...",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b4",
+          "pdfLine": "4",
+          "pdfLines": [
+            4
+          ],
+          "piece": 4,
+          "text": "ความลําบากชั่วคราว อาจจะ",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b5",
+          "pdfLine": "5",
+          "pdfLines": [
+            5
+          ],
+          "piece": 5,
+          "text": "หลายปี หรือหลายสิบปี ห้ามขาดวินัยแม้แต่วัน",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b6",
+          "pdfLine": "6",
+          "pdfLines": [
+            6
+          ],
+          "piece": 6,
+          "text": "เดียว",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b7",
+          "pdfLine": "8",
+          "pdfLines": [
+            8
+          ],
+          "piece": 7,
+          "text": "บทเรียนที่ 6...",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b8",
+          "pdfLine": "8-9",
+          "pdfLines": [
+            8,
+            9
+          ],
+          "piece": 8,
+          "text": "ถ้าวันนี้ใช้ชีวิตอยู่กับความสุขชั่วคราว ขาดซึ่งวินัย หากวันเวลาผ่าน",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b9",
+          "pdfLine": "9-11",
+          "pdfLines": [
+            9,
+            10,
+            11
+          ],
+          "piece": 9,
+          "text": "เมื่อแก่ตัวลง ได้แต่เสียดาย เพราะไม่มี Time Machine เพื่อไปแก้ไข",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b10",
+          "pdfLine": "13",
+          "pdfLines": [
+            13
+          ],
+          "piece": 10,
+          "text": "บทเรียนที่ 7...",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b11",
+          "pdfLine": "13",
+          "pdfLines": [
+            13
+          ],
+          "piece": 11,
+          "text": "ต้องเปลี่ยนแปลงทุกวัน ให้เกิด",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b12",
+          "pdfLine": "14",
+          "pdfLines": [
+            14
+          ],
+          "piece": 12,
+          "text": "สิ่งใหม่ๆ ทั้งความคิดและการกระทํา เพื่อไม่ให้",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b13",
+          "pdfLine": "15",
+          "pdfLines": [
+            15
+          ],
+          "piece": 13,
+          "text": "ยํ่าอยู่กับที่",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b14",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 14,
+          "text": "บทเรียนที่ 8...",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b15",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 15,
+          "text": "ทําผลงาน ชิ้นงานให้ดีที่สุด",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b16",
+          "pdfLine": "18",
+          "pdfLines": [
+            18
+          ],
+          "piece": 16,
+          "text": "เสมอ เพื่อการพัฒนาที่ไม่สิ้นสุด",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b17",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 17,
+          "text": "บทเรียนที่ 9...",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b18",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 18,
+          "text": "มอบสิ่งที่ดีที่สุดให้ลูกค้าเสมอ",
+          "mode": "narration"
+        },
+        {
+          "id": "p64-b19",
+          "pdfLine": "21",
+          "pdfLines": [
+            21
+          ],
+          "piece": 19,
+          "text": "เมื่อชื่อเสียงมา สิ่งดีๆก็จะตามมาเอง",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-064.png"
+    },
+    {
+      "pageNumber": 65,
+      "chapter": {
+        "id": "chapter-16",
+        "index": 15,
+        "title": "หลักสูตรมหาลัยชีวิต",
+        "startPage": 63,
+        "endPage": 69
+      },
+      "lines": [
+        {
+          "id": "p65-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "บทเรียนที่ 10...",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "ไม่มีคําว่าสายสําหรับการเริ่ม",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b3",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 3,
+          "text": "ต้นเสมอ",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b4",
+          "pdfLine": "4",
+          "pdfLines": [
+            4
+          ],
+          "piece": 4,
+          "text": "บทเรียนที่ 11...",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b5",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 5,
+          "text": "ช่วงเวลาที่เรารู้สึกลําบาก ช่วงเวลาที่เราทํางานอย่างหนักแต่ไม่มีใครเห็น",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b6",
+          "pdfLine": "5-7",
+          "pdfLines": [
+            5,
+            6,
+            7
+          ],
+          "piece": 6,
+          "text": "ช่วงเวลาที่เราทําดีแต่ไม่มีใครรู้ นั่นคือช่วงเวลาสะสมประสบการณ์",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b7",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 7,
+          "text": "นั่นคือยาวิเศษที่ทําให้จิตใจเราเข้มแข็ง",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b8",
+          "pdfLine": "10",
+          "pdfLines": [
+            10
+          ],
+          "piece": 8,
+          "text": "บทเรียนที่ 12...",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b9",
+          "pdfLine": "10-11",
+          "pdfLines": [
+            10,
+            11
+          ],
+          "piece": 9,
+          "text": "แม้ในสายตาคนภายนอกจะมองเราเหมือนยํ่าอยู่กับที่ไม่ได้ไปไหน",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b10",
+          "pdfLine": "11-13",
+          "pdfLines": [
+            11,
+            12,
+            13
+          ],
+          "piece": 10,
+          "text": "แต่ตัวเราเองรู้ดีว่า เรากําลังทําอะไร เป้าหมายคืออะไรเมื่อถึงจุดที่แข็งแกร่งพอ",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b11",
+          "pdfLine": "13-14",
+          "pdfLines": [
+            13,
+            14
+          ],
+          "piece": 11,
+          "text": "ความสําเร็จย่อมรออยู่ข้างหน้า",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b12",
+          "pdfLine": "16",
+          "pdfLines": [
+            16
+          ],
+          "piece": 12,
+          "text": "บทเรียนที่ 13...",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b13",
+          "pdfLine": "16",
+          "pdfLines": [
+            16
+          ],
+          "piece": 13,
+          "text": "ความสําเร็จมีราคาที่ต้องจ่าย",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b14",
+          "pdfLine": "17",
+          "pdfLines": [
+            17
+          ],
+          "piece": 14,
+          "text": "เสมอ",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b15",
+          "pdfLine": "19",
+          "pdfLines": [
+            19
+          ],
+          "piece": 15,
+          "text": "บทเรียนที่ 14...",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b16",
+          "pdfLine": "19",
+          "pdfLines": [
+            19
+          ],
+          "piece": 16,
+          "text": "ไม่มีอะไรในโลกนี้ที่ทําไปแล้ว",
+          "mode": "narration"
+        },
+        {
+          "id": "p65-b17",
+          "pdfLine": "20",
+          "pdfLines": [
+            20
+          ],
+          "piece": 17,
+          "text": "สูญเปล่า ทุกอย่างต้องใช้เวลา",
+          "mode": "narration"
+        }
+      ],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-065.png"
+    },
+    {
+      "pageNumber": 66,
+      "chapter": {
+        "id": "chapter-16",
+        "index": 15,
+        "title": "หลักสูตรมหาลัยชีวิต",
+        "startPage": 63,
+        "endPage": 69
+      },
+      "lines": [
+        {
+          "id": "p66-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "บทเรียนที่ 15...",
+          "mode": "narration"
+        },
+        {
+          "id": "p66-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "เราควรเก็บผลไม้ที่กินได้ใส่ไว้",
+          "mode": "narration"
+        },
+        {
+          "id": "p66-b3",
+          "pdfLine": "2",
+          "pdfLines": [
+            2
+          ],
+          "piece": 3,
+          "text": "ในตะกร้า ไม่เก็บผลไม้พิษโดยเด็ดขาด....",
+          "mode": "narration"
+        },
+        {
+          "id": "p66-b4",
+          "pdfLine": "4-5",
+          "pdfLines": [
+            4,
+            5
+          ],
+          "piece": 4,
+          "text": "สมองเราก็ควรจําและบันทึกแต่สิ่งดีๆ คบเพื่อนดีๆ กินอาหารดีๆ คิด",
+          "mode": "narration"
+        },
+        {
+          "id": "p66-b5",
+          "pdfLine": "5-6",
+          "pdfLines": [
+            5,
+            6
+          ],
+          "piece": 5,
+          "text": "แต่สิ่งดีๆ พูดสิ่งดีๆทําแต่สิ่งดีๆ...",
+          "mode": "narration"
+        },
+        {
+          "id": "p66-b6",
+          "pdfLine": "6-7",
+          "pdfLines": [
+            6,
+            7
+          ],
+          "piece": 6,
+          "text": "เพราะสิ่งที่ดีๆทั้งหลาย ย่อมดึงดูดแต่สิ่งที่ดีๆเข้ามาในชีวิต...",
+          "mode": "narration"
+        },
+        {
+          "id": "p66-b7",
+          "pdfLine": "7-8",
+          "pdfLines": [
+            7,
+            8
+          ],
+          "piece": 7,
+          "text": "แล้วชีวิตก็จะบังเกิดแต่สิ่งดีๆตลอดไป.....",
+          "mode": "emphasis"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-4be0f83707a25514",
+          "src": "/suoi-tee-content/assets/images/image-4be0f83707a25514.png",
+          "width": 1195,
+          "height": 896,
+          "bbox": [
+            26.6667,
+            417.1672,
+            539.7621,
+            801.8808
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-066.png"
+    },
+    {
+      "pageNumber": 67,
+      "chapter": {
+        "id": "chapter-16",
+        "index": 15,
+        "title": "หลักสูตรมหาลัยชีวิต",
+        "startPage": 63,
+        "endPage": 69
+      },
+      "lines": [
+        {
+          "id": "p67-b1",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 1,
+          "text": "ปีที่ถ่าย...",
+          "mode": "narration"
+        },
+        {
+          "id": "p67-b2",
+          "pdfLine": "1",
+          "pdfLines": [
+            1
+          ],
+          "piece": 2,
+          "text": "น้องอีก 3 คนยังไม่เกิด (รวม 11 คน)",
+          "mode": "narration"
+        }
+      ],
+      "images": [
+        {
+          "assetId": "image-b1c2dcc04df321d2",
+          "src": "/suoi-tee-content/assets/images/image-b1c2dcc04df321d2.jpeg",
+          "width": 1080,
+          "height": 1428,
+          "bbox": [
+            26.6667,
+            93.1672,
+            573.3334,
+            815.9821
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-067.png"
+    },
+    {
+      "pageNumber": 68,
+      "chapter": {
+        "id": "chapter-16",
+        "index": 15,
+        "title": "หลักสูตรมหาลัยชีวิต",
+        "startPage": 63,
+        "endPage": 69
+      },
+      "lines": [],
+      "images": [
+        {
+          "assetId": "image-776d3de4a657004b",
+          "src": "/suoi-tee-content/assets/images/image-776d3de4a657004b.png",
+          "width": 704,
+          "height": 1527,
+          "bbox": [
+            26.6667,
+            16.6672,
+            559.9001,
+            821.7497
+          ]
+        }
+      ],
+      "render": "/suoi-tee-content/assets/pages/page-068.png"
+    },
+    {
+      "pageNumber": 69,
+      "chapter": {
+        "id": "chapter-16",
+        "index": 15,
+        "title": "หลักสูตรมหาลัยชีวิต",
+        "startPage": 63,
+        "endPage": 69
+      },
+      "lines": [],
+      "images": [],
+      "render": "/suoi-tee-content/assets/pages/page-069.png"
+    }
+  ],
+  "source": {
+    "document": "/suoi-tee-content/document.json",
+    "pdfIgnored": true
+  }
+}
